@@ -1,6 +1,6 @@
 package ea.slartibartfast.demo.elasticsearch.service;
 
-import ea.slartibartfast.demo.elasticsearch.model.Payment;
+import ea.slartibartfast.demo.elasticsearch.model.PaymentDocument;
 import ea.slartibartfast.demo.elasticsearch.model.converter.PaymentRequestConverter;
 import ea.slartibartfast.demo.elasticsearch.model.converter.PaymentVoConverter;
 import ea.slartibartfast.demo.elasticsearch.model.request.PaymentRequest;
@@ -24,18 +24,18 @@ public class PaymentService {
     private final PaymentVoConverter paymentVoConverter;
 
     public Response save(PaymentRequest paymentRequest) {
-        Payment payment = paymentRequestConverter.apply(paymentRequest);
-        paymentRepository.save(payment);
+        PaymentDocument document = paymentRequestConverter.apply(paymentRequest);
+        paymentRepository.save(document);
         return Response.builder().status("SUCCESS").build();
     }
 
     public List<PaymentVo> retrievePaymentsByCustomerName(String customerName) {
-        final Page<Payment> paymentsPage = paymentRepository.findByCustomerName(customerName, PageRequest.of(0, 20));
+        final Page<PaymentDocument> paymentsPage = paymentRepository.findByCustomerName(customerName, PageRequest.of(0, 20));
         return paymentsPage.getContent().stream().map(paymentVoConverter).collect(Collectors.toList());
     }
 
     public List<PaymentVo> retrievePaymentsByMerchantName(String merchantName) {
-        final Page<Payment> paymentsPage = paymentRepository.findByMerchantNameUsingCustomQuery(merchantName, PageRequest.of(0, 20));
+        final Page<PaymentDocument> paymentsPage = paymentRepository.findByMerchantNameUsingCustomQuery(merchantName, PageRequest.of(0, 20));
         return paymentsPage.getContent().stream().map(paymentVoConverter).collect(Collectors.toList());
     }
 }

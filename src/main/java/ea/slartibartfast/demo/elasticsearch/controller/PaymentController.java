@@ -1,9 +1,12 @@
 package ea.slartibartfast.demo.elasticsearch.controller;
 
+import ea.slartibartfast.demo.elasticsearch.model.request.InvoiceRequest;
 import ea.slartibartfast.demo.elasticsearch.model.request.PaymentRequest;
 import ea.slartibartfast.demo.elasticsearch.model.request.PaymentSearchByPriceRequest;
 import ea.slartibartfast.demo.elasticsearch.model.response.Response;
+import ea.slartibartfast.demo.elasticsearch.model.vo.InvoiceVo;
 import ea.slartibartfast.demo.elasticsearch.model.vo.PaymentVo;
+import ea.slartibartfast.demo.elasticsearch.service.InvoiceService;
 import ea.slartibartfast.demo.elasticsearch.service.PaymentService;
 import ea.slartibartfast.demo.elasticsearch.service.PaymentServiceWithEsOperations;
 import lombok.RequiredArgsConstructor;
@@ -18,11 +21,12 @@ import java.util.List;
 public class PaymentController {
 
     private final PaymentService paymentService;
+    private final InvoiceService invoiceService;
     private final PaymentServiceWithEsOperations paymentServiceWithEsOperations;
 
     @PostMapping
-    public Response add(@RequestBody @Valid PaymentRequest employee) {
-        return paymentService.save(employee);
+    public Response add(@RequestBody @Valid PaymentRequest request) {
+        return paymentService.save(request);
     }
 
     @GetMapping("/customer/{customerName}")
@@ -48,5 +52,20 @@ public class PaymentController {
     @GetMapping("/search/price")
     public List<PaymentVo> searchByPrice(@RequestBody @Valid PaymentSearchByPriceRequest paymentSearchByPriceRequest) {
         return paymentServiceWithEsOperations.retrievePaymentsByPrice(paymentSearchByPriceRequest);
+    }
+
+    @PostMapping("/invoice")
+    public Response createInvoice(@RequestBody @Valid InvoiceRequest request) {
+        return invoiceService.save(request);
+    }
+
+    @GetMapping("/search/invoiced")
+    public List<PaymentVo> retrieveInvoicedPayments() {
+        return paymentServiceWithEsOperations.retrieveInvoicedPayments();
+    }
+
+    @GetMapping("/search/invoices/{paymentNum}")
+    public List<InvoiceVo> retrieveInvoices(@PathVariable("paymentNum") Long paymentNum) {
+        return paymentServiceWithEsOperations.retrievePaymentInvoices(paymentNum);
     }
 }

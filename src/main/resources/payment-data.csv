@@ -1,501 +1,501 @@
-price;code;payment_channel;name;surname;email;gsm_number;merchant_num;merchant_name;transaction_date;item_name
-1;TRY;WEB;John;Doe;email@email.com;9,05E+11;374093;ucakciniz.com;16.10.2021 22:55:00;müthiş kalem
-1;TRY;WEB;John;Doe;email@email.com;9,05E+11;374093;ucakciniz.com;16.10.2021 22:46:00;müthiş kalem
-1;TRY;WEB;John;Doe;email@email.com;9,05E+11;374093;ucakciniz.com;16.10.2021 22:44:00;müthiş kalem
-1;TRY;WEB;John;Doe;email@email.com;9,05E+11;374093;ucakciniz.com;16.10.2021 21:59:00;IYZICO TEST ILANI 1-TL
-1;TRY;WEB;John;Doe;email@email.com;9,05E+11;374093;ucakciniz.com;16.10.2021 21:55:00;IYZICO TEST ILANI 1-TL
-1;TRY;WEB;John;Doe;email@email.com;9,05E+11;374093;ucakciniz.com;16.10.2021 21:50:00;IYZICO TEST ILANI 1-TL
-1;TRY;WEB;John;Doe;email@email.com;9,05E+11;374093;ucakciniz.com;16.10.2021 21:44:00;IYZICO TEST ILANI 1-TL
-1;TRY;WEB;John;Doe;email@email.com;9,05E+11;374093;ucakciniz.com;16.10.2021 21:43:00;IYZICO TEST ILANI 1-TL
-1;TRY;WEB;John;Doe;email@email.com;9,05E+11;374093;ucakciniz.com;16.10.2021 21:41:00;IYZICO TEST ILANI 1-TL
-1;TRY;WEB;John;Doe;email@email.com;9,05E+11;374093;ucakciniz.com;16.10.2021 21:31:00;müthiş kalem
-1;TRY;WEB;John;Doe;email@email.com;9,05E+11;374093;ucakciniz.com;16.10.2021 21:24:00;IYZICO TEST ILANI 1-TL
-1;TRY;WEB;John;Doe;email@email.com;9,05E+11;374093;ucakciniz.com;16.10.2021 21:16:00;müthiş kalem
-1;TRY;WEB;John;Doe;email@email.com;9,05E+11;374093;ucakciniz.com;16.10.2021 21:00:00;!!!! Nefis D682 G Pro Lite
-1;TRY;WEB;John;Doe;email@email.com;9,05E+11;374093;ucakciniz.com;16.10.2021 20:57:00;müthiş kalem
-1;TRY;WEB;John;Doe;email@email.com;9,05E+11;374093;ucakciniz.com;16.10.2021 20:45:00;!!!! Nefis D682 G Pro Lite
-1;TRY;WEB;John;Doe;email@email.com;9,05E+11;374093;ucakciniz.com;16.10.2021 20:11:00;!!!! Nefis D682 G Pro Lite
-1;TRY;WEB;John;Doe;email@email.com;9,05E+11;374093;ucakciniz.com;16.10.2021 20:04:00;müthiş kalem
-1;TRY;WEB;John;Doe;email@email.com;9,05E+11;374093;ucakciniz.com;14.10.2021 16:52:00;müthiş kalem
-1;TRY;WEB;John;Doe;email@email.com;9,05E+11;374093;ucakciniz.com;14.10.2021 16:49:00;Kingston USB
-1;TRY;WEB;John;Doe;email@email.com;9,05E+11;374093;ucakciniz.com;14.10.2021 16:43:00;müthiş HDMI Cable
-1;TRY;WEB;John;Doe;email@email.com;9,05E+11;374093;ucakciniz.com;14.10.2021 15:56:00;Kingston USB
-1;TRY;WEB;John;Doe;email@email.com;9,05E+11;374093;ucakciniz.com;14.10.2021 15:55:00;HDMI Cable
-1;TRY;WEB;John;Doe;email@email.com;9,05E+11;374093;ucakciniz.com;14.10.2021 15:39:00;Kingston USB
-1;TRY;WEB;John;Doe;email@email.com;9,05E+11;374093;ucakciniz.com;14.10.2021 15:37:00;HDMI Cable
-1;TRY;WEB;John;Doe;email@email.com;9,05E+11;374093;ucakciniz.com;14.10.2021 15:34:00;Kingston USB
-1;TRY;WEB;John;Doe;email@email.com;9,05E+11;374093;ucakciniz.com;14.10.2021 15:32:00;HDMI Cable
-1;TRY;WEB;John;Doe;email@email.com;9,05E+11;374093;ucakciniz.com;14.10.2021 15:04:00;Kingston USB
-1;TRY;WEB;John;Doe;email@email.com;9,05E+11;374093;ucakciniz.com;14.10.2021 15:04:00;HDMI Cable
-1;TRY;WEB;John;Doe;email@email.com;9,05E+11;374093;ucakciniz.com;14.10.2021 15:02:00;Philips HR1388/50 Salata Ustası
-1;TRY;WEB;John;Doe;email@email.com;9,05E+11;374093;ucakciniz.com;14.10.2021 14:58:00;Kingston USB
-1;TRY;WEB;John;Doe;email@email.com;9,05E+11;374093;ucakciniz.com;14.10.2021 14:58:00;HDMI Cable
-1;TRY;WEB;John;Doe;email@email.com;9,05E+11;374093;ucakciniz.com;14.10.2021 14:51:00;Philips HR1388/50 Salata Ustası
-1;TRY;WEB;John;Doe;email@email.com;9,05E+11;374093;ucakciniz.com;14.10.2021 14:49:00;Kingston USB
-1;TRY;WEB;John;Doe;email@email.com;9,05E+11;374093;ucakciniz.com;14.10.2021 14:48:00;HDMI Cable
-1;TRY;WEB;John;Doe;email@email.com;9,05E+11;374093;ucakciniz.com;14.10.2021 14:43:00;Philips HR1388/50 Salata Ustası
-1;TRY;WEB;John;Doe;email@email.com;9,05E+11;374093;ucakciniz.com;14.10.2021 14:27:00;Kingston USB
-1;TRY;WEB;John;Doe;email@email.com;9,05E+11;374093;ucakciniz.com;14.10.2021 14:21:00;HDMI Cable
-1;TRY;WEB;John;Doe;email@email.com;9,05E+11;374093;ucakciniz.com;14.10.2021 10:16:00;Kingston USB
-1;TRY;WEB;John;Doe;email@email.com;9,05E+11;374093;ucakciniz.com;13.10.2021 13:01:00;HDMI Cable
-1;TRY;WEB;John;Doe;email@email.com;9,05E+11;374093;ucakciniz.com;13.10.2021 12:59:00;Kingston USB
-1;TRY;WEB;John;Doe;email@email.com;9,05E+11;374093;ucakciniz.com;13.10.2021 11:44:00;HDMI Cable
-1;TRY;WEB;John;Doe;email@email.com;9,05E+11;374093;ucakciniz.com;13.10.2021 10:48:00;Kingston USB
-1;TRY;WEB;John;Doe;email@email.com;9,05E+11;374093;ucakciniz.com;04.10.2021 11:25:00;HDMI Cable
-1;TRY;WEB;John;Doe;email@email.com;9,05E+11;374093;ucakciniz.com;01.10.2021 18:15:00;Philips HR1388/50 Salata Ustası
-1;TRY;WEB;John;Doe;email@email.com;9,05E+11;374093;ucakciniz.com;01.10.2021 18:14:00;Kingston USB
-0.1;TRY;WEB;Test Name;Test Surname;menitrust@yahoo.com;5555555555;1;test merchant;29.09.2021 23:02:00;HDMI Cable
-1;TRY;WEB;John;Doe;kemal.sunal@yahoo.co.uk;9,05E+11;1;test merchant;27.09.2021 17:10:00;Philips HR1388/50 Salata Ustası
-1;TRY;WEB;John;Doe;email@email.com;9,05E+11;1;test merchant;27.09.2021 16:13:00;Fakir Ceremony Çamaşır Makinesi
-1;TRY;WEB;John;Doe;email@email.com;9,05E+11;1;test merchant;27.09.2021 16:12:00;Philips AT610/14 AquaTouch Islak Kuru Tra_ Makinesi
-1;TRY;WEB;John;Doe;email@email.com;9,05E+11;1;test merchant;27.09.2021 16:12:00;Kingston USB
-1;TRY;WEB;John;Doe;email@email.com;9,05E+11;1;test merchant;27.09.2021 16:11:00;HDMI Cable
-1;TRY;WEB;John;Doe;email@email.com;9,05E+11;1;test merchant;27.09.2021 16:11:00;Philips AT610/14 AquaTouch Islak Kuru Tra_ Makinesi
-1;TRY;WEB;John;Doe;email@email.com;9,05E+11;1;test merchant;27.09.2021 16:05:00;Philips HR1388/50 Salata Ustası
-1;TRY;WEB;John;Doe;email@email.com;9,05E+11;1;test merchant;27.09.2021 16:05:00;Philips AT610/14 AquaTouch Islak Kuru Tra_ Makinesi
-1;TRY;WEB;John;Doe;email@email.com;9,05E+11;1;test merchant;27.09.2021 16:04:00;Philips HR1388/50 Salata Ustası
-1;TRY;WEB;John;Doe;email@email.com;9,05E+11;1;test merchant;27.09.2021 16:03:00;Philips HR1388/50 Salata Ustası
-1;TRY;WEB;John;Doe;email@email.com;9,05E+11;1;test merchant;27.09.2021 16:01:00;Fakir Ceremony Çamaşır Makinesi
-1;TRY;WEB;John;Doe;kemal.sunal@yahoo.co.uk;9,05E+11;1;test merchant;27.09.2021 15:33:00;Fakir Ceremony Çamaşır Makinesi
-1;TRY;WEB;John;Doe;kemal.sunal@yahoo.co.uk;9,05E+11;1;test merchant;27.09.2021 15:33:00;Fakir Ceremony Çamaşır Makinesi
-1;TRY;WEB;John;Doe;kemal.sunal@yahoo.co.uk;9,05E+11;1;test merchant;27.09.2021 15:30:00;TEFAL Secure 5 DŸdŸklŸ Tencere 6 Lt
-5;TRY;WEB;John;Doe;tryharder@gmail.com;9,05E+11;1;test merchant;27.09.2021 15:24:00;Janome Flower 313 Diki_ Makinesi
-5;TRY;WEB;John;Doe;tryharder@gmail.com;9,05E+11;1;test merchant;27.09.2021 15:24:00;Philips HR1388/50 Salata Ustası
-5;TRY;WEB;John;Doe;tryharder@gmail.com;9,05E+11;1;test merchant;27.09.2021 15:16:00;Philips HR1388/50 Salata Ustası
-1;TRY;WEB;John;Doe;email@email.com;9,05E+11;1;test merchant;27.09.2021 15:15:00;Philips HR1388/50 Salata Ustası
-1;TRY;WEB;John;Doe;email@email.com;9,05E+11;1;test merchant;27.09.2021 15:15:00;Philips GC4870/26 200gr Azur Buharlı †tŸ
-5;TRY;WEB;John;Doe;tryharder@gmail.com;9,05E+11;1;test merchant;27.09.2021 15:10:00;Philips GC4870/26 200gr Azur Buharlı †tŸ
-1;TRY;WEB;John;Doe;tryharder@gmail.com;9,05E+11;1;test merchant;27.09.2021 15:10:00;Philips GC4870/26 200gr Azur Buharlı †tŸ
-1;TRY;WEB;John;Doe;tryharder@gmail.com;9,05E+11;1;test merchant;27.09.2021 15:09:00;Philips HR1855/00 Viva Collection Katı Meyve Sıkacağı
-1;TRY;WEB;John;Doe;kemal.sunal@yahoo.co.uk;9,05E+11;1;test merchant;27.09.2021 13:52:00;Philips HR1855/00 Viva Collection Katı Meyve Sıkacağı
-1;TRY;WEB;John;Doe;kemal.sunal@yahoo.co.uk;9,05E+11;1;test merchant;27.09.2021 13:45:00;Philips AT610/14 AquaTouch Islak Kuru Trağ Makinesi
-1;TRY;WEB;John;Doe;tryharder@gmail.com;9,05E+11;1;test merchant;27.09.2021 13:39:00;Fakir Ceremony Çamaşır Makinesi
-1;TRY;WEB;Test Name;Test Surname;menitrust@yahoo.com;5555555555;1;test merchant;27.09.2021 09:15:00;Müthiş Pilot Kalem
-1;TRY;WEB;John;Doe;email@email.com;9,05E+11;1;test merchant;24.09.2021 15:51:00;Müthiş Pilot Kalem
-1;TRY;WEB;John;Doe;email@email.com;9,05E+11;1;test merchant;24.09.2021 15:50:00;Müthiş Pilot Kalem
-1;TRY;WEB;John;Doe;email@email.com;9,05E+11;1;test merchant;24.09.2021 15:48:00;Müthiş Pilot Kalem
-1;TRY;WEB;John;Doe;email@email.com;9,05E+11;1;test merchant;24.09.2021 15:40:00;Philips HR1388/50 Salata Ustası
-1;TRY;WEB;Test Name;Test Surname;menitrust@yahoo.com;5555555555;1;test merchant;24.09.2021 13:44:00;Philips HR1388/50 Salata Ustası
-1;TRY;WEB;Test Name;Test Surname;menitrust@yahoo.com;5555555555;1;test merchant;24.09.2021 13:43:00;Philips HR1388/50 Salata Ustası
-1;TRY;WEB;Test Name;Test Surname;menitrust@yahoo.com;5555555555;1;test merchant;24.09.2021 13:43:00;IYZICO TEST ILANI 1-TL
-1.02;TRY;MOBILE;Tarık;Akan;tarik.akan@yahoo.com;5555555555;373946;fund merchant;24.09.2021 13:43:00;IYZICO TEST ILANI 1-TL
-1;TRY;WEB;John;Doe;email@email.com;9,05E+11;1;test merchant;24.09.2021 12:03:00;IYZICO TEST ILANI 1-TL
-1;TRY;WEB;John;Doe;email@email.com;9,05E+11;1;test merchant;24.09.2021 12:01:00;IYZICO TEST ILANI 1-TL
-1;TRY;WEB;John;Doe;tryharder@gmail.com;9,05E+11;1;test merchant;23.09.2021 17:11:00;IYZICO TEST ILANI 1-TL
-1;TRY;WEB;Test Name;Test Surname;menitrust@yahoo.com;5555555555;1;test merchant;23.09.2021 13:00:00;IYZICO TEST ILANI 1-TL
-1;TRY;WEB;John;Doe;email@email.com;9,05E+11;1;test merchant;23.09.2021 11:24:00;Philips HR1388/50 Salata Ustası
-1;TRY;WEB;John;Doe;email@email.com;9,05E+11;1;test merchant;23.09.2021 11:23:00;Philips GC4870/26 200gr Azur Buharlı †tŸ
-1;TRY;WEB;John;Doe;email@email.com;9,05E+11;1;test merchant;22.09.2021 20:58:00;IYZICO TEST ILANI 1-TL
-1;TRY;WEB;John;Doe;email@email.com;9,05E+11;1;test merchant;22.09.2021 20:50:00;IYZICO TEST ILANI 1-TL
-1;TRY;WEB;John;Doe;email@email.com;9,05E+11;1;test merchant;22.09.2021 20:48:00;Bambum Pinoli Nihale
-1;TRY;WEB;John;Doe;email@email.com;9,05E+11;1;test merchant;22.09.2021 18:08:00;IYZICO TEST ILANI 1-TL
-1;TRY;WEB;John;Doe;email@email.com;9,05E+11;1;test merchant;22.09.2021 17:52:00;IYZICO TEST ILANI 1-TL
-1;TRY;WEB;John;Doe;email@email.com;9,05E+11;1;test merchant;22.09.2021 17:47:00;IYZICO TEST ILANI 1-TL
-1;TRY;WEB;John;Doe;email@email.com;9,05E+11;1;test merchant;22.09.2021 17:46:00;IYZICO TEST ILANI 1-TL
-1;TRY;WEB;John;Doe;email@email.com;9,05E+11;1;test merchant;22.09.2021 17:43:00;IYZICO TEST ILANI 1-TL
-1;TRY;WEB;John;Doe;email@email.com;9,05E+11;1;test merchant;22.09.2021 17:27:00;IYZICO TEST ILANI 1-TL
-1;TRY;WEB;John;Doe;tryharder@gmail.com;9,05E+11;1;test merchant;22.09.2021 16:26:00;IYZICO TEST ILANI 1-TL
-1;TRY;WEB;John;Doe;tryharder@gmail.com;9,05E+11;1;test merchant;22.09.2021 16:11:00;IYZICO TEST ILANI 1-TL
-1;TRY;WEB;John;Doe;tryharder@gmail.com;9,05E+11;1;test merchant;22.09.2021 16:00:00;Müthiş Pilot Kalem
-1;TRY;WEB;John;Doe;tryharder@gmail.com;9,05E+11;1;test merchant;22.09.2021 15:48:00;!!!! Nefis D682 G Pro Lite
-1;TRY;WEB;Test Name;Test Surname;menitrust@yahoo.com;5555555555;1;test merchant;22.09.2021 13:46:00;IYZICO TEST ILANI 1-TL
-1;TRY;WEB;Test Name;Test Surname;menitrust@yahoo.com;5555555555;1;test merchant;22.09.2021 12:17:00;Müthiş Pilot Kalem
-1;TRY;WEB;Test Name;Test Surname;menitrust@yahoo.com;5555555555;1;test merchant;22.09.2021 12:15:00;Müthiş Pilot Kalem
-1;TRY;WEB;Test Name;Test Surname;menitrust@yahoo.com;5555555555;1;test merchant;22.09.2021 12:08:00;Müthiş Pilot Kalem
-1;TRY;WEB;John;Doe;tryharder@gmail.com;9,05E+11;1;test merchant;21.09.2021 10:07:00;!!!! Nefis D682 G Pro Lite
-1;TRY;WEB;John;Doe;email@email.com;9,05E+11;1;test merchant;20.09.2021 23:24:00;Müthiş Pilot Kalem
-1;TRY;WEB;John;Doe;email@email.com;9,05E+11;1;test merchant;20.09.2021 23:21:00;!!!! Nefis D682 G Pro Lite
-1;TRY;WEB;John;Doe;tryharder@gmail.com;9,05E+11;1;test merchant;20.09.2021 17:47:00;!!!! Nefis D682 G Pro Lite
-1;TRY;WEB;John;Doe;tryharder@gmail.com;9,05E+11;1;test merchant;20.09.2021 17:43:00;!!!! Nefis D682 G Pro Lite
-1;TRY;WEB;John;Doe;tryharder@gmail.com;9,05E+11;1;test merchant;20.09.2021 17:38:00;!!!! Nefis D682 G Pro Lite
-1;TRY;WEB;John;Doe;tryharder@gmail.com;9,05E+11;1;test merchant;20.09.2021 17:28:00;masa šrtŸsŸ
-1;TRY;WEB;John;Doe;tryharder@gmail.com;9,05E+11;1;test merchant;20.09.2021 17:24:00;IYZICO TEST ILANI 1-TL
-1;TRY;WEB;John;Doe;email@email.com;9,05E+11;1;test merchant;20.09.2021 17:03:00;IYZICO TEST ILANI 1-TL
-1;TRY;WEB;John;Doe;email@email.com;9,05E+11;1;test merchant;20.09.2021 16:59:00;!!!! Nefis D682 G Pro Lite
-1;TRY;WEB;John;Doe;email@email.com;9,05E+11;1;test merchant;20.09.2021 16:56:00;!!!! Nefis D682 G Pro Lite
-1;TRY;WEB;John;Doe;email@email.com;9,05E+11;1;test merchant;20.09.2021 16:53:00;masa šrtŸsŸ-2
-1;TRY;WEB;John;Doe;email@email.com;9,05E+11;1;test merchant;20.09.2021 16:53:00;!!!! Nefis D682 G Pro Lite
-1;TRY;WEB;John;Doe;email@email.com;9,05E+11;1;test merchant;20.09.2021 16:50:00;!!!! Nefis D682 G Pro Lite
-1;TRY;WEB;John;Doe;email@email.com;9,05E+11;1;test merchant;20.09.2021 16:45:00;!!!! Nefis D682 G Pro Lite
-1;TRY;WEB;John;Doe;email@email.com;9,05E+11;1;test merchant;20.09.2021 16:44:00;!!!! Nefis D682 G Pro Lite
-1;TRY;WEB;John;Doe;email@email.com;9,05E+11;1;test merchant;20.09.2021 14:26:00;!!!! Nefis D682 G Pro Lite
-1;TRY;WEB;John;Doe;email@email.com;9,05E+11;1;test merchant;20.09.2021 14:18:00;!!!! Nefis D682 G Pro Lite
-1;TRY;WEB;John;Doe;email@email.com;9,05E+11;1;test merchant;20.09.2021 14:13:00;!!!! Nefis D682 G Pro Lite
-1;TRY;WEB;John;Doe;email@email.com;9,05E+11;1;test merchant;20.09.2021 14:10:00;!!!! Nefis D682 G Pro Lite
-1;TRY;WEB;John;Doe;email@email.com;9,05E+11;374042;commons.com;20.09.2021 13:48:00;!!!! Nefis D682 G Pro Lite
-1;TRY;WEB;John;Doe;email@email.com;9,05E+11;374042;commons.com;20.09.2021 13:45:00;Müthiş Pilot Kalem
-1;TRY;WEB;John;Doe;email@email.com;9,05E+11;374042;commons.com;20.09.2021 13:43:00;Müthiş Pilot Kalem
-1;TRY;WEB;John;Doe;email@email.com;9,05E+11;1;test merchant;20.09.2021 11:36:00;Müthiş Pilot Kalem
-1;TRY;WEB;John;Doe;email@email.com;9,05E+11;1;test merchant;20.09.2021 11:27:00;Müthiş Pilot Kalem
-1;TRY;WEB;John;Doe;email@email.com;9,05E+11;1;test merchant;20.09.2021 11:12:00;Philips AT610/14 AquaTouch Islak Kuru Traş Makinesi
-1;TRY;WEB;John;Doe;email@email.com;9,05E+11;1;test merchant;20.09.2021 11:05:00;Philips AT610/14 AquaTouch Islak Kuru Traş Makinesi
-1;TRY;WEB;John;Doe;email@email.com;9,05E+11;1;test merchant;20.09.2021 11:04:00;DELL LATITUDE E6400 ANAKART SA_LAM
-1;TRY;WEB;John;Doe;email@email.com;9,05E+11;1;test merchant;20.09.2021 10:55:00;DELL LAT_TUDE E6400 ANAKART SA_LAM
-1;TRY;WEB;John;Doe;email@email.com;9,05E+11;1;test merchant;20.09.2021 10:53:00;IYZICO TEST ILANI 1-TL
-1;TRY;WEB;John;Doe;email@email.com;9,05E+11;1;test merchant;20.09.2021 10:51:00;IYZICO TEST ILANI 1-TL
-1;TRY;WEB;John;Doe;email@email.com;9,05E+11;1;test merchant;20.09.2021 10:27:00;!!!! Nefis D682 G Pro Lite
-1;TRY;WEB;John;Doe;email@email.com;9,05E+11;1;test merchant;17.09.2021 13:20:00;!!!! Nefis D682 G Pro Lite
-1;TRY;WEB;John;Doe;email@email.com;9,05E+11;1;test merchant;17.09.2021 13:12:00;!!!! Nefis D682 G Pro Lite
-1;TRY;WEB;John;Doe;email@email.com;9,05E+11;374042;commons.com;17.09.2021 11:55:00;Fakir Ceremony Çamaşır Makinesi
-1;TRY;WEB;John;Doe;email@email.com;9,05E+11;374042;commons.com;17.09.2021 11:21:00;!!!! Nefis D682 G Pro Lite
-1;TRY;WEB;Test Name;Test Surname;menitrust@yahoo.com;5555555555;1;test merchant;17.09.2021 10:13:00;!!!! Nefis D682 G Pro Lite
-1;TRY;WEB;Test Name;Test Surname;menitrust@yahoo.com;5555555555;1;test merchant;17.09.2021 09:59:00;!!!! Nefis D682 G Pro Lite
-1;TRY;WEB;John;Doe;email@email.com;9,05E+11;374042;commons.com;16.09.2021 17:54:00;Müthiş Pilot Kalem
-1;TRY;WEB;John;Doe;email@email.com;9,05E+11;1;test merchant;16.09.2021 16:06:00;Müthiş Pilot Kalem
-1;TRY;WEB;John;Doe;tryharder@gmail.com;9,05E+11;1;test merchant;15.09.2021 11:52:00;Müthiş Pilot Kalem
-1;TRY;WEB;John;Doe;email@email.com;9,05E+11;1;test merchant;15.09.2021 11:44:00;Müthiş Pilot Kalem
-1;TRY;WEB;Test Name;Test Surname;menitrust@yahoo.com;5555555555;1;test merchant;14.09.2021 15:10:00;Pilot Kalem
-1;TRY;WEB;John;Doe;email@email.com;9,05E+11;1;test merchant;14.09.2021 13:39:00;Müthiş Pilot Kalem
-1;TRY;WEB;Test Name;Test Surname;menitrust@yahoo.com;5555555555;1;test merchant;14.09.2021 12:25:00;Philips GC4870/26 200gr Azur Buharlı
-1;TRY;WEB;Test Name;Test Surname;menitrust@yahoo.com;5555555555;1;test merchant;14.09.2021 12:14:00;AlııverişBilgisayar‚evre BirimleriMouse
-1;TRY;WEB;Test Name;Test Surname;menitrust@yahoo.com;5555555555;1;test merchant;14.09.2021 11:28:00;Alı_veri_Ev Elektroni_iTelefonTelsiz
-1;TRY;WEB;Test Name;Test Surname;menitrust@yahoo.com;5555555555;1;test merchant;14.09.2021 11:24:00;!!!! Nefis D682 G Pro Lite
-1;TRY;WEB;John;Doe;email@email.com;9,05E+11;374042;commons.com;14.09.2021 10:47:00;!!!! Nefis D682 G Pro Lite
-1;TRY;WEB;John;Doe;email@email.com;9,05E+11;374042;commons.com;14.09.2021 10:43:00;!!!! Nefis D682 G Pro Lite
-1;TRY;WEB;John;Doe;email@email.com;9,05E+11;374042;commons.com;14.09.2021 10:23:00;!!!! Nefis D682 G Pro Lite
-1;TRY;WEB;John;Doe;email@email.com;9,05E+11;1;test merchant;14.09.2021 09:59:00;!!!! Nefis D682 G Pro Lite
-1;TRY;WEB;John;Doe;email@email.com;9,05E+11;374042;commons.com;14.09.2021 09:57:00;!!!! Nefis D682 G Pro Lite
-1;TRY;WEB;John;Doe;email@email.com;9,05E+11;1;test merchant;14.09.2021 09:56:00;!!!! Nefis D682 G Pro Lite
-1;TRY;WEB;John;Doe;email@email.com;9,05E+11;1;test merchant;14.09.2021 09:54:00;!!!! Nefis D682 G Pro Lite
-1;TRY;WEB;John;Doe;email@email.com;9,05E+11;1;test merchant;14.09.2021 09:46:00;MAĞAZA İLAN SAVAŞI
-1;TRY;WEB;John;Doe;email@email.com;9,05E+11;1;test merchant;14.09.2021 09:07:00;MAĞAZA İLAN SAVAŞI
-1;TRY;WEB;John;Doe;email@email.com;9,05E+11;1;test merchant;14.09.2021 09:07:00;MAĞAZA İLAN SAVAŞI
-1;TRY;WEB;John;Doe;email@email.com;9,05E+11;1;test merchant;13.09.2021 20:58:00;MAĞAZA İLAN SAVAŞI
-1;TRY;WEB;John;Doe;email@email.com;9,05E+11;1;test merchant;13.09.2021 18:23:00;MAĞAZA İLAN SAVAŞI
-1;TRY;WEB;John;Doe;email@email.com;9,05E+11;1;test merchant;13.09.2021 18:21:00;BİREYSEL İLAN SAVAŞI
-1;TRY;WEB;John;Doe;email@email.com;9,05E+11;1;test merchant;13.09.2021 18:05:00;BİREYSEL İLAN SAVAŞI
-1;TRY;WEB;John;Doe;email@email.com;9,05E+11;1;test merchant;13.09.2021 18:04:00;BİREYSEL İLAN SAVAŞI
-1;TRY;WEB;John;Doe;email@email.com;9,05E+11;1;test merchant;13.09.2021 18:03:00;BİREYSEL İLAN SAVAŞI
-1;TRY;WEB;John;Doe;email@email.com;9,05E+11;1;test merchant;13.09.2021 18:01:00;BİREYSEL İLAN SAVAŞI
-1;TRY;WEB;Test Name;Test Surname;menitrust@yahoo.com;5555555555;1;test merchant;13.09.2021 17:53:00;BİREYSEL İLAN SAVAŞI
-1;TRY;WEB;John;Doe;email@email.com;9,05E+11;374042;commons.com;13.09.2021 17:51:00;BİREYSEL İLAN SAVAŞI
-1;TRY;WEB;Test Name;Test Surname;menitrust@yahoo.com;5555555555;1;test merchant;13.09.2021 17:49:00;BİREYSEL İLAN SAVAŞI
-1;TRY;WEB;John;Doe;email@email.com;9,05E+11;374042;commons.com;13.09.2021 17:49:00;BİREYSEL İLAN SAVAŞI
-1;TRY;WEB;Test Name;Test Surname;menitrust@yahoo.com;5555555555;1;test merchant;13.09.2021 17:48:00;BİREYSEL İLAN SAVAŞI
-1;TRY;WEB;John;Doe;email@email.com;9,05E+11;374042;commons.com;13.09.2021 17:42:00;BİREYSEL İLAN SAVAŞI
-1;TRY;WEB;John;Doe;email@email.com;9,05E+11;1;test merchant;13.09.2021 17:40:00;BİREYSEL İLAN SAVAŞI
-1;TRY;WEB;John;Doe;email@email.com;9,05E+11;1;test merchant;13.09.2021 17:40:00;Kingston USB
-1;TRY;WEB;John;Doe;email@email.com;9,05E+11;1;test merchant;13.09.2021 17:35:00;Kingston USB
-1;TRY;WEB;Test Name;Test Surname;menitrust@yahoo.com;5555555555;1;test merchant;13.09.2021 17:23:00;Kingston USB
-1;TRY;WEB;Test Name;Test Surname;menitrust@yahoo.com;5555555555;1;test merchant;13.09.2021 17:22:00;BİREYSEL İLAN SAVAŞI
-1;TRY;WEB;Test Name;Test Surname;menitrust@yahoo.com;5555555555;1;test merchant;13.09.2021 17:08:00;!!!! Nefis D682 G Pro Lite
-1;TRY;WEB;Test Name;Test Surname;menitrust@yahoo.com;5555555555;1;test merchant;13.09.2021 17:07:00;!!!! Nefis D682 G Pro Lite
-1;TRY;WEB;Test Name;Test Surname;menitrust@yahoo.com;5555555555;1;test merchant;13.09.2021 17:06:00;!!!! Nefis D682 G Pro Lite
-1;TRY;WEB;Test Name;Test Surname;menitrust@yahoo.com;5555555555;1;test merchant;13.09.2021 17:06:00;!!!! Nefis D682 G Pro Lite
-1;TRY;WEB;Test Name;Test Surname;menitrust@yahoo.com;5555555555;1;test merchant;13.09.2021 17:00:00;BİREYSEL İLAN SAVAŞI
-1;TRY;WEB;Test Name;Test Surname;menitrust@yahoo.com;5555555555;1;test merchant;13.09.2021 17:00:00;BİREYSEL İLAN SAVAŞI
-1;TRY;WEB;John;Doe;email@email.com;9,05E+11;1;test merchant;13.09.2021 16:53:00;Kingston USB
-1;TRY;WEB;John;Doe;email@email.com;9,05E+11;1;test merchant;13.09.2021 16:37:00;HDMI Cable
-1;TRY;WEB;John;Doe;email@email.com;9,05E+11;1;test merchant;13.09.2021 16:35:00;Müthiş Pilot Kalem
-1;TRY;WEB;John;Doe;email@email.com;9,05E+11;1;test merchant;13.09.2021 16:33:00;IYZICO TEST ILANI 1-TL
-1;TRY;WEB;John;Doe;email@email.com;9,05E+11;1;test merchant;13.09.2021 16:31:00;IYZICO TEST ILANI 1-TL
-1;TRY;WEB;John;Doe;email@email.com;9,05E+11;1;test merchant;13.09.2021 16:30:00;!!!! Nefis D682 G Pro Lite
-1;TRY;WEB;John;Doe;email@email.com;9,05E+11;1;test merchant;13.09.2021 16:28:00;!!!! Nefis D682 G Pro Lite
-1;TRY;WEB;Test Name;Test Surname;menitrust@yahoo.com;5555555555;1;test merchant;13.09.2021 16:19:00;!!!! Nefis D682 G Pro Lite
-1;TRY;WEB;John;Doe;tryharder@gmail.com;9,05E+11;1;test merchant;13.09.2021 16:10:00;!!!! Nefis D682 G Pro Lite
-1;TRY;WEB;John;Doe;tryharder@gmail.com;9,05E+11;1;test merchant;13.09.2021 15:58:00;Kingston USB
-1;TRY;WEB;John;Doe;tryharder@gmail.com;9,05E+11;1;test merchant;13.09.2021 15:53:00;HDMI Cable
-1;TRY;WEB;John;Doe;tryharder@gmail.com;9,05E+11;1;test merchant;13.09.2021 15:51:00;Kingston USB
-1;TRY;WEB;Test Name;Test Surname;menitrust@yahoo.com;5555555555;1;test merchant;13.09.2021 15:41:00;Kingston USB
-1;TRY;WEB;Test Name;Test Surname;menitrust@yahoo.com;5555555555;1;test merchant;13.09.2021 15:39:00;Kingston USB
-0.2;TRY;MOBILE;unknown;unknown;kemal.sunal@yahoo.co.uk;5554443322;373946;fund merchant;13.09.2021 15:39:00;Kingston USB
-1;TRY;WEB;Test Name;Test Surname;menitrust@yahoo.com;5555555555;1;test merchant;13.09.2021 14:22:00;Kingston USB
-1;TRY;WEB;Test Name;Test Surname;menitrust@yahoo.com;5555555555;1;test merchant;13.09.2021 13:20:00;Kingston USB
-1;TRY;WEB;Test Name;Test Surname;menitrust@yahoo.com;5555555555;1;test merchant;13.09.2021 13:19:00;Kingston USB
-1;TRY;WEB;Test Name;Test Surname;menitrust@yahoo.com;5555555555;1;test merchant;13.09.2021 13:16:00;HDMI Cable
-1;TRY;WEB;Test Name;Test Surname;menitrust@yahoo.com;5555555555;1;test merchant;13.09.2021 11:27:00;Kingston USB
-1;TRY;WEB;John;Doe;email@email.com;9,05E+11;1;test merchant;13.09.2021 11:23:00;HDMI Cable
-1;TRY;WEB;John;Doe;email@email.com;9,05E+11;1;test merchant;13.09.2021 11:21:00;!!!! Nefis D682 G Pro Lite
-1;TRY;WEB;John;Doe;email@email.com;9,05E+11;1;test merchant;13.09.2021 11:19:00;!!!! Nefis D682 G Pro Lite
-1;TRY;WEB;John;Doe;email@email.com;9,05E+11;1;test merchant;13.09.2021 11:19:00;!!!! Nefis D682 G Pro Lite
-1;TRY;WEB;John;Doe;email@email.com;9,05E+11;1;test merchant;13.09.2021 11:17:00;!!!! Nefis D682 G Pro Lite
-1;TRY;WEB;John;Doe;email@email.com;9,05E+11;1;test merchant;13.09.2021 11:13:00;!!!! Nefis D682 G Pro Lite
-1;TRY;WEB;Test Name;Test Surname;menitrust@yahoo.com;5555555555;1;test merchant;13.09.2021 11:09:00;!!!! Nefis D682 G Pro Lite
-1;TRY;WEB;John;Doe;email@email.com;9,05E+11;1;test merchant;13.09.2021 11:08:00;!!!! Nefis D682 G Pro Lite
-1;TRY;WEB;Test Name;Test Surname;menitrust@yahoo.com;5555555555;1;test merchant;13.09.2021 10:59:00;!!!! Nefis D682 G Pro Lite
-1;TRY;WEB;John;Doe;tryharder@gmail.com;9,05E+11;1;test merchant;09.09.2021 16:47:00;!!!! Nefis D682 G Pro Lite
-1;TRY;WEB;John;Doe;email@email.com;9,05E+11;1;test merchant;09.09.2021 15:19:00;!!!! Nefis D682 G Pro Lite
-1;TRY;WEB;John;Doe;email@email.com;9,05E+11;1;test merchant;09.09.2021 15:16:00;!!!! Nefis D682 G Pro Lite
-1;TRY;WEB;John;Doe;email@email.com;9,05E+11;1;test merchant;09.09.2021 15:07:00;!!!! Nefis D682 G Pro Lite
-1;TRY;WEB;John;Doe;email@email.com;9,05E+11;1;test merchant;09.09.2021 14:31:00;!!!! Nefis D682 G Pro Lite
-1;TRY;WEB;John;Doe;email@email.com;9,05E+11;1;test merchant;09.09.2021 14:28:00;!!!! Nefis D682 G Pro Lite
-1;TRY;WEB;John;Doe;email@email.com;9,05E+11;1;test merchant;09.09.2021 10:12:00;!!!! Nefis D682 G Pro Lite
-1;TRY;WEB;John;Doe;email@email.com;9,05E+11;1;test merchant;09.09.2021 10:10:00;!!!! Nefis D682 G Pro Lite
-1;TRY;WEB;John;Doe;tryharder@gmail.com;9,05E+11;1;test merchant;09.09.2021 10:07:00;!!!! Nefis D682 G Pro Lite
-5;TRY;WEB;John;Doe;email@email.com;9,05E+11;1;test merchant;08.09.2021 18:35:00;!!!! Nefis D682 G Pro Lite
-5;TRY;WEB;John;Doe;email@email.com;9,05E+11;1;test merchant;08.09.2021 18:28:00;!!!! Nefis D682 G Pro Lite
-5;TRY;WEB;John;Doe;email@email.com;9,05E+11;1;test merchant;08.09.2021 17:47:00;!!!! Nefis D682 G Pro Lite
-5;TRY;WEB;John;Doe;email@email.com;9,05E+11;1;test merchant;08.09.2021 16:45:00;!!!! Nefis D682 G Pro Lite
-5;TRY;WEB;John;Doe;email@email.com;9,05E+11;1;test merchant;08.09.2021 16:42:00;!!!! Nefis D682 G Pro Lite
-5;TRY;WEB;John;Doe;email@email.com;9,05E+11;1;test merchant;08.09.2021 16:15:00;!!!! Nefis D682 G Pro Lite
-1;TRY;WEB;John;Doe;email@email.com;9,05E+11;1;test merchant;08.09.2021 14:15:00;!!!! Nefis D682 G Pro Lite
-1;TRY;WEB;John;Doe;email@email.com;9,05E+11;1;test merchant;08.09.2021 14:13:00;!!!! Nefis D682 G Pro Lite
-1;TRY;WEB;John;Doe;email@email.com;9,05E+11;1;test merchant;08.09.2021 14:04:00;!!!! Nefis D682 G Pro Lite
-1;TRY;WEB;John;Doe;email@email.com;9,05E+11;1;test merchant;08.09.2021 13:58:00;!!!! Nefis D682 G Pro Lite
-1;TRY;WEB;John;Doe;tryharder@gmail.com;9,05E+11;1;test merchant;08.09.2021 13:35:00;Alı_veri_     Saat     Takı Saat
-1;TRY;WEB;John;Doe;email@email.com;9,05E+11;1;test merchant;06.09.2021 17:53:00;Alı_veri_     Saat     Takı Saat
-1;TRY;WEB;Test Name;Test Surname;menitrust@yahoo.com;5555555555;1;test merchant;06.09.2021 15:37:00;Üniforma
-1;TRY;WEB;Test Name;Test Surname;menitrust@yahoo.com;5555555555;1;test merchant;06.09.2021 15:37:00;Üniforma
-1;TRY;WEB;Test Name;Test Surname;menitrust@yahoo.com;5555555555;1;test merchant;06.09.2021 15:36:00;Üniforma
-1;TRY;WEB;John;Doe;tryharder@gmail.com;9,05E+11;1;test merchant;06.09.2021 13:39:00;!!!! Nefis D682 G Pro Lite
-1;TRY;WEB;Test Name;Test Surname;menitrust@yahoo.com;5555555555;1;test merchant;06.09.2021 13:11:00;!!!! Nefis D682 G Pro Lite
-1;TRY;WEB;John;Doe;email@email.com;9,05E+11;374042;commons.com;06.09.2021 10:48:00;El kremi El kremi
-1;TRY;WEB;John;Doe;email@email.com;9,05E+11;374042;commons.com;06.09.2021 10:46:00;Araç Düzeltme Seti
-1;TRY;WEB;John;Doe;tryharder@gmail.com;9,05E+11;1;test merchant;03.09.2021 17:03:00;El kremi El kremi
-1;TRY;WEB;John;Doe;tryharder@gmail.com;9,05E+11;1;test merchant;03.09.2021 16:51:00;El kremi El kremi
-1;TRY;WEB;John;Doe;tryharder@gmail.com;9,05E+11;1;test merchant;03.09.2021 16:35:00;El kremi El kremi
-1;TRY;WEB;John;Doe;email@email.com;9,05E+11;1;test merchant;03.09.2021 14:58:00;patlangaç
-1;TRY;WEB;John;Doe;email@email.com;9,05E+11;1;test merchant;03.09.2021 14:52:00;patlangaç
-1;TRY;WEB;John;Doe;email@email.com;9,05E+11;1;test merchant;03.09.2021 14:51:00;patlangaç
-1;TRY;WEB;John;Doe;tryharder@gmail.com;9,05E+11;1;test merchant;03.09.2021 14:50:00;patlangaç
-1;TRY;WEB;John;Doe;tryharder@gmail.com;9,05E+11;374042;commons.com;03.09.2021 14:46:00;patlangaç
-1;TRY;WEB;John;Doe;tryharder@gmail.com;9,05E+11;374042;commons.com;03.09.2021 14:40:00;patlangaç
-1;TRY;WEB;John;Doe;tryharder@gmail.com;9,05E+11;374042;commons.com;03.09.2021 14:39:00;patlangaç
-1;TRY;WEB;John;Doe;tryharder@gmail.com;9,05E+11;374042;commons.com;03.09.2021 14:37:00;Fotoğraf Kamera Aksesuarlar Battery G
-1;TRY;WEB;John;Doe;email@email.com;9,05E+11;374042;commons.com;03.09.2021 14:37:00;!!!! Nefis D682 G Pro Lite
-1;TRY;WEB;John;Doe;email@email.com;9,05E+11;374042;commons.com;03.09.2021 13:39:00;!!!! Nefis D682 G Pro Lite
-1;TRY;WEB;John;Doe;email@email.com;9,05E+11;1;test merchant;03.09.2021 13:04:00;!!!! Nefis D682 G Pro Lite
-1;TRY;WEB;John;Doe;email@email.com;9,05E+11;1;test merchant;03.09.2021 12:47:00;!!!! Nefis D682 G Pro Lite
-1;TRY;WEB;John;Doe;email@email.com;9,05E+11;1;test merchant;03.09.2021 12:16:00;!!!! Nefis D682 G Pro Lite
-1;TRY;WEB;John;Doe;email@email.com;9,05E+11;1;test merchant;03.09.2021 12:03:00;!!!! Nefis D682 G Pro Lite
-1;TRY;WEB;John;Doe;email@email.com;9,05E+11;1;test merchant;03.09.2021 11:59:00;!!!! Nefis D682 G Pro Lite
-1;TRY;WEB;John;Doe;email@email.com;9,05E+11;1;test merchant;03.09.2021 11:16:00;!!!! Nefis D682 G Pro Lite
-1;TRY;WEB;John;Doe;email@email.com;9,05E+11;1;test merchant;03.09.2021 11:11:00;!!!! Nefis D682 G Pro Lite
-1;TRY;WEB;John;Doe;email@email.com;9,05E+11;374042;commons.com;03.09.2021 09:59:00;!!!! Nefis D682 G Pro Lite
-1;TRY;WEB;John;Doe;email@email.com;9,05E+11;374042;commons.com;02.09.2021 15:43:00;!!!! Nefis D682 G Pro Lite
-1;TRY;WEB;John;Doe;email@email.com;9,05E+11;374042;commons.com;02.09.2021 15:39:00;!!!! Nefis D682 G Pro Lite
-1;TRY;WEB;John;Doe;email@email.com;9,05E+11;1;test merchant;02.09.2021 15:07:00;!!!! Nefis D682 G Pro Lite
-1;TRY;WEB;John;Doe;email@email.com;9,05E+11;1;test merchant;01.09.2021 22:43:00;!!!! Nefis D682 G Pro Lite
-1;TRY;WEB;John;Doe;email@email.com;9,05E+11;1;test merchant;01.09.2021 22:40:00;!!!! Nefis D682 G Pro Lite
-1;TRY;WEB;John;Doe;email@email.com;9,05E+11;1;test merchant;01.09.2021 17:58:00;!!!! Nefis D682 G Pro Lite
-1;TRY;WEB;John;Doe;email@email.com;9,05E+11;1;test merchant;01.09.2021 17:51:00;!!!! Nefis D682 G Pro Lite
-1;TRY;WEB;John;Doe;email@email.com;9,05E+11;1;test merchant;01.09.2021 17:50:00;!!!! Nefis D682 G Pro Lite
-1;TRY;WEB;John;Doe;email@email.com;9,05E+11;1;test merchant;01.09.2021 17:45:00;!!!! Nefis D682 G Pro Lite
-1;TRY;WEB;John;Doe;email@email.com;9,05E+11;1;test merchant;01.09.2021 17:44:00;!!!! Nefis D682 G Pro Lite
-1;TRY;WEB;John;Doe;email@email.com;9,05E+11;1;test merchant;01.09.2021 17:43:00;!!!! Nefis D682 G Pro Lite
-1;TRY;WEB;John;Doe;email@email.com;9,05E+11;1;test merchant;01.09.2021 17:37:00;!!!! Nefis D682 G Pro Lite
-1;TRY;WEB;John;Doe;email@email.com;9,05E+11;1;test merchant;01.09.2021 17:23:00;!!!! Nefis D682 G Pro Lite
-1;TRY;WEB;John;Doe;email@email.com;9,05E+11;1;test merchant;01.09.2021 17:04:00;!!!! Nefis D682 G Pro Lite
-1;TRY;WEB;John;Doe;email@email.com;9,05E+11;1;test merchant;01.09.2021 16:44:00;!!!! Nefis D682 G Pro Lite
-1;TRY;WEB;John;Doe;email@email.com;9,05E+11;1;test merchant;01.09.2021 15:24:00;!!!! Nefis D682 G Pro Lite
-1;TRY;WEB;John;Doe;email@email.com;9,05E+11;1;test merchant;01.09.2021 15:18:00;!!!! Nefis D682 G Pro Lite
-1;TRY;WEB;John;Doe;email@email.com;9,05E+11;1;test merchant;01.09.2021 15:16:00;!!!! Nefis D682 G Pro Lite
-1;TRY;WEB;John;Doe;email@email.com;9,05E+11;1;test merchant;01.09.2021 15:11:00;Fotoğraf Kamera Aksesuarlar Battery G
-1;TRY;WEB;John;Doe;email@email.com;9,05E+11;1;test merchant;01.09.2021 15:02:00;Fotoğraf Kamera Aksesuarlar Battery G
-1;TRY;WEB;Test Name;Test Surname;menitrust@yahoo.com;5555555555;1;test merchant;01.09.2021 13:40:00;!!!! Nefis D682 G Pro Lite
-1;TRY;WEB;Test Name;Test Surname;menitrust@yahoo.com;5555555555;1;test merchant;01.09.2021 13:39:00;!!!! Nefis D682 G Pro Lite
-1;TRY;WEB;John;Doe;email@email.com;9,05E+11;1;test merchant;31.08.2021 18:14:00;!!!! Nefis D682 G Pro Lite
-1;TRY;WEB;John;Doe;email@email.com;9,05E+11;1;test merchant;31.08.2021 18:06:00;!!!! Nefis D682 G Pro Lite
-99;TRY;WEB;Yasujiro;Ozursonal;Yasujirozu49@gmail.com;9,05E+11;1;test merchant;31.08.2021 17:56:00;!!!! Nefis D682 G Pro Lite
-29;TRY;WEB;John;Dimarco;johndimarco@yahoo.com;9,06E+11;1;test merchant;31.08.2021 17:47:00;!!!! Nefis D682 G Pro Lite
-29;TRY;WEB;John;Dimarco;johndimarco@yahoo.com;9,06E+11;1;test merchant;31.08.2021 17:47:00;!!!! Nefis D682 G Pro Lite
-1;TRY;WEB;John;Doe;email@email.com;9,05E+11;1;test merchant;31.08.2021 17:34:00;!!!! Nefis D682 G Pro Lite
-1;TRY;WEB;John;Doe;email@email.com;9,05E+11;1;test merchant;31.08.2021 17:32:00;!!!! Nefis D682 G Pro Lite
-1;TRY;WEB;John;Doe;email@email.com;9,05E+11;1;test merchant;31.08.2021 17:19:00;Müthiş Pilot Kalem5
-1;TRY;WEB;John;Doe;email@email.com;9,05E+11;1;test merchant;31.08.2021 16:45:00;!!!! Nefis D682 G Pro Lite
-1;TRY;WEB;John;Doe;email@email.com;9,05E+11;1;test merchant;31.08.2021 16:42:00;!!!! Nefis D682 G Pro Lite
-99;TRY;WEB;John;Dimarco;johndimarco@yahoo.com;9,06E+11;1;test merchant;31.08.2021 16:41:00;!!!! Nefis D682 G Pro Lite
-99;TRY;WEB;John;Dimarco;johndimarco@yahoo.com;9,06E+11;1;test merchant;31.08.2021 16:40:00;!!!! Nefis D682 G Pro Lite
-99;TRY;WEB;John;Dimarco;johndimarco@yahoo.com;9,06E+11;1;test merchant;31.08.2021 16:37:00;USB Cable
-99;TRY;WEB;John;Dimarco;johndimarco@yahoo.com;9,06E+11;1;test merchant;31.08.2021 16:35:00;HDMI Cable
-29;TRY;WEB;Ingmar;Bergman;ingmar.bergman@hurriyet.com.tr;9,05E+11;1;test merchant;31.08.2021 16:02:00;USB Cable
-29;TRY;WEB;Ingmar;Bergman;ingmar.bergman@hurriyet.com.tr;9,05E+11;1;test merchant;31.08.2021 16:02:00;HDMI Cable
-29;TRY;WEB;Ingmar;Bergman;ingmar.bergman@hurriyet.com.tr;9,05E+11;1;test merchant;31.08.2021 16:01:00;!!!! Nefis D682 G Pro Lite
-99;TRY;WEB;Ingmar;Bergman;ingmar.bergman@hurriyet.com.tr;9,05E+11;1;test merchant;31.08.2021 15:53:00;!!!! Nefis D682 G Pro Lite
-29;TRY;WEB;Ingmar;Bergman;ingmar.bergman@hurriyet.com.tr;9,05E+11;1;test merchant;31.08.2021 15:52:00;!!!! Nefis D682 G Pro Lite
-99;TRY;WEB;Ingmar;Bergman;ingmar.bergman@hurriyet.com.tr;9,05E+11;1;test merchant;31.08.2021 15:50:00;!!!! Nefis D682 G Pro Lite
-1;TRY;WEB;John;Doe;email@email.com;9,05E+11;374042;commons.com;31.08.2021 14:33:00;!!!! Nefis D682 G Pro Lite
-1;TRY;WEB;John;Doe;email@email.com;9,05E+11;374042;commons.com;31.08.2021 14:28:00;USB Cable
-1;TRY;WEB;John;Doe;email@email.com;9,05E+11;374042;commons.com;31.08.2021 14:25:00;HDMI Cable
-1;TRY;WEB;John;Doe;email@email.com;9,05E+11;374042;commons.com;31.08.2021 14:15:00;USB Cable
-1;TRY;WEB;Test Name;Test Surname;menitrust@yahoo.com;5555555555;1;test merchant;31.08.2021 12:32:00;HDMI Cable
-1;TRY;WEB;Test Name;Test Surname;menitrust@yahoo.com;5555555555;1;test merchant;31.08.2021 11:57:00;!!!! Nefis D682 G Pro Lite
-14;TRY;WEB;John;Doe;tryharder@gmail.com;9,05E+11;374042;commons.com;27.08.2021 14:42:00;!!!! Nefis D682 G Pro Lite
-1.03;TRY;MOBILE_IOS;asd asda;asd;asdas@asdasd.co;213213213;960957;test.com;27.08.2021 14:41:00;!!!! Nefis D682 G Pro Lite
-13;TRY;WEB;John;Doe;tryharder@gmail.com;9,05E+11;374042;commons.com;27.08.2021 14:40:00;!!!! Nefis D682 G Pro Lite
-12;TRY;WEB;John;Doe;tryharder@gmail.com;9,05E+11;374042;commons.com;27.08.2021 14:39:00;!!!! Nefis D682 G Pro Lite
-11;TRY;WEB;John;Doe;tryharder@gmail.com;9,05E+11;1;test merchant;27.08.2021 14:38:00;!!!! Nefis D682 G Pro Lite
-10;TRY;WEB;John;Doe;tryharder@gmail.com;9,05E+11;374042;commons.com;27.08.2021 14:38:00;!!!! Nefis D682 G Pro Lite
-9;TRY;WEB;John;Doe;tryharder@gmail.com;9,05E+11;1;test merchant;27.08.2021 14:37:00;!!!! Nefis D682 G Pro Lite
-8;TRY;WEB;John;Doe;tryharder@gmail.com;9,05E+11;374042;commons.com;27.08.2021 14:36:00;!!!! Nefis D682 G Pro Lite
-7;TRY;WEB;John;Doe;tryharder@gmail.com;9,05E+11;1;test merchant;27.08.2021 14:31:00;!!!! Nefis D682 G Pro Lite
-6;TRY;WEB;John;Doe;tryharder@gmail.com;9,05E+11;374042;commons.com;27.08.2021 14:30:00;!!!! Nefis D682 G Pro Lite
-5;TRY;WEB;John;Doe;tryharder@gmail.com;9,05E+11;374042;commons.com;27.08.2021 14:29:00;!!!! Nefis D682 G Pro Lite
-5;TRY;WEB;John;Doe;tryharder@gmail.com;9,05E+11;1;test merchant;27.08.2021 14:29:00;!!!! Nefis D682 G Pro Lite
-99;TRY;WEB;John;Dimarco;johndimarco@yahoo.com;9,06E+11;1;test merchant;27.08.2021 13:58:00;!!!! Nefis D682 G Pro Lite
-1;TRY;WEB;Test Name;Test Surname;menitrust@yahoo.com;5555555555;1;test merchant;27.08.2021 09:24:00;!!!! Nefis D682 G Pro Lite
-1;TRY;WEB;Test Name;Test Surname;menitrust@yahoo.com;5555555555;1;test merchant;26.08.2021 17:58:00;!!!! Nefis D682 G Pro Lite
-1;TRY;WEB;Test Name;Test Surname;menitrust@yahoo.com;5555555555;1;test merchant;26.08.2021 17:02:00;!!!! Nefis D682 G Pro Lite
-1;TRY;WEB;John;Doe;email@email.com;9,05E+11;1;test merchant;26.08.2021 16:12:00;!!!! Nefis D682 G Pro Lite
-1;TRY;WEB;John;Doe;email@email.com;9,05E+11;1;test merchant;26.08.2021 16:12:00;!!!! Nefis D682 G Pro Lite
-1;TRY;WEB;John;Doe;email@email.com;9,05E+11;1;test merchant;26.08.2021 16:12:00;!!!! Nefis D682 G Pro Lite
-1;TRY;WEB;John;Doe;email@email.com;9,05E+11;1;test merchant;26.08.2021 16:12:00;!!!! Nefis D682 G Pro Lite
-1;TRY;WEB;John;Doe;email@email.com;9,05E+11;1;test merchant;26.08.2021 16:11:00;!!!! Nefis D682 G Pro Lite
-1;TRY;WEB;John;Doe;email@email.com;9,05E+11;1;test merchant;26.08.2021 16:11:00;!!!! Nefis D682 G Pro Lite
-1;TRY;WEB;John;Doe;email@email.com;9,05E+11;1;test merchant;26.08.2021 16:11:00;!!!! Nefis D682 G Pro Lite
-1;TRY;WEB;John;Doe;email@email.com;9,05E+11;1;test merchant;26.08.2021 16:11:00;!!!! Nefis D682 G Pro Lite
-1;TRY;WEB;John;Doe;email@email.com;9,05E+11;1;test merchant;26.08.2021 16:11:00;!!!! Nefis D682 G Pro Lite
-1;TRY;WEB;John;Doe;email@email.com;9,05E+11;1;test merchant;26.08.2021 16:11:00;!!!! Nefis D682 G Pro Lite
-12;TRY;WEB;John;Doe;tryharder@gmail.com;9,05E+11;374042;commons.com;26.08.2021 15:34:00;!!!! Nefis D682 G Pro Lite
-12;TRY;WEB;John;Doe;tryharder@gmail.com;9,05E+11;374042;commons.com;26.08.2021 15:31:00;!!!! Nefis D682 G Pro Lite
-12;TRY;WEB;John;Doe;tryharder@gmail.com;9,05E+11;1;test merchant;26.08.2021 15:30:00;!!!! Nefis D682 G Pro Lite
-5;TRY;WEB;John;Doe;tryharder@gmail.com;9,05E+11;1;test merchant;26.08.2021 15:27:00;!!!! Nefis D682 G Pro Lite
-1;TRY;WEB;John;Doe;email@email.com;9,05E+11;1;test merchant;26.08.2021 15:03:00;!!!! Nefis D682 G Pro Lite
-1;TRY;WEB;John;Doe;email@email.com;9,05E+11;1;test merchant;26.08.2021 15:02:00;!!!! Nefis D682 G Pro Lite
-1;TRY;WEB;John;Doe;email@email.com;9,05E+11;1;test merchant;26.08.2021 15:02:00;!!!! Nefis D682 G Pro Lite
-1;TRY;WEB;John;Doe;email@email.com;9,05E+11;1;test merchant;26.08.2021 15:02:00;!!!! Nefis D682 G Pro Lite
-1;TRY;WEB;John;Doe;email@email.com;9,05E+11;1;test merchant;26.08.2021 15:02:00;!!!! Nefis D682 G Pro Lite
-1;TRY;WEB;John;Doe;email@email.com;9,05E+11;1;test merchant;26.08.2021 15:02:00;!!!! Nefis D682 G Pro Lite
-1;TRY;WEB;John;Doe;email@email.com;9,05E+11;1;test merchant;26.08.2021 15:02:00;!!!! Nefis D682 G Pro Lite
-1;TRY;WEB;John;Doe;email@email.com;9,05E+11;1;test merchant;26.08.2021 15:02:00;!!!! Nefis D682 G Pro Lite
-1;TRY;WEB;John;Doe;email@email.com;9,05E+11;1;test merchant;26.08.2021 15:02:00;!!!! Nefis D682 G Pro Lite
-1;TRY;WEB;John;Doe;email@email.com;9,05E+11;1;test merchant;26.08.2021 15:02:00;!!!! Nefis D682 G Pro Lite
-1;TRY;WEB;John;Doe;email@email.com;9,05E+11;1;test merchant;26.08.2021 14:36:00;!!!! Nefis D682 G Pro Lite
-1;TRY;WEB;John;Doe;email@email.com;9,05E+11;1;test merchant;26.08.2021 14:36:00;USB Cable 
-1;TRY;WEB;John;Doe;email@email.com;9,05E+11;1;test merchant;26.08.2021 14:36:00;HDMI Cable
-1;TRY;WEB;John;Doe;email@email.com;9,05E+11;1;test merchant;26.08.2021 14:36:00;TV Cable
-1;TRY;WEB;John;Doe;email@email.com;9,05E+11;1;test merchant;26.08.2021 14:35:00;!!!! Nefis D682 G Pro Lite
-1;TRY;WEB;John;Doe;email@email.com;9,05E+11;1;test merchant;26.08.2021 14:35:00;!!!! Nefis D682 G Pro Lite
-1;TRY;WEB;John;Doe;email@email.com;9,05E+11;1;test merchant;26.08.2021 14:35:00;!!!! Nefis D682 G Pro Lite
-1;TRY;WEB;John;Doe;email@email.com;9,05E+11;1;test merchant;26.08.2021 14:35:00;TOM FORD BLACK ORCH_D %100 TESTER 100 ML ERKEK PARFÜM
-1;TRY;WEB;John;Doe;email@email.com;9,05E+11;1;test merchant;26.08.2021 14:35:00;TOM FORD BLACK ORCH_D %100 TESTER 100 ML ERKEK PARFÜM
-1;TRY;WEB;John;Doe;email@email.com;9,05E+11;1;test merchant;26.08.2021 14:35:00;!!!! Nefis D682 G Pro Lite
-1;TRY;WEB;John;Doe;email@email.com;9,05E+11;1;test merchant;26.08.2021 14:34:00;!!!! Nefis D682 G Pro Lite
-1;TRY;WEB;John;Doe;email@email.com;9,05E+11;1;test merchant;26.08.2021 14:34:00;!!!! Nefis D682 G Pro Lite
-1;TRY;WEB;John;Doe;email@email.com;9,05E+11;1;test merchant;26.08.2021 14:34:00;!!!! Nefis D682 G Pro Lite
-1;TRY;WEB;John;Doe;email@email.com;9,05E+11;1;test merchant;26.08.2021 14:34:00;!!!! Nefis D682 G Pro Lite
-1;TRY;WEB;John;Doe;email@email.com;9,05E+11;1;test merchant;26.08.2021 14:34:00;!!!! Nefis D682 G Pro Lite
-1;TRY;WEB;John;Doe;email@email.com;9,05E+11;1;test merchant;26.08.2021 14:34:00;!!!! Nefis D682 G Pro Lite
-1;TRY;WEB;John;Doe;email@email.com;9,05E+11;1;test merchant;26.08.2021 14:34:00;!!!! Nefis D682 G Pro Lite
-1;TRY;WEB;John;Doe;email@email.com;9,05E+11;1;test merchant;26.08.2021 14:34:00;!!!! Nefis D682 G Pro Lite
-1;TRY;WEB;John;Doe;email@email.com;9,05E+11;1;test merchant;26.08.2021 14:34:00;!!!! Nefis D682 G Pro Lite
-1;TRY;WEB;John;Doe;email@email.com;9,05E+11;1;test merchant;26.08.2021 14:34:00;!!!! Nefis D682 G Pro Lite
-1;TRY;WEB;John;Doe;email@email.com;9,05E+11;1;test merchant;26.08.2021 14:33:00;!!!! Nefis D682 G Pro Lite
-10;TRY;WEB;John;Doe;email@email.com;9,05E+11;374042;commons.com;26.08.2021 14:03:00;!!!! Nefis D682 G Pro Lite
-10;TRY;WEB;John;Doe;email@email.com;9,05E+11;374042;commons.com;26.08.2021 13:54:00;!!!! Nefis D682 G Pro Lite
-10;TRY;WEB;John;Doe;email@email.com;9,05E+11;1;test merchant;26.08.2021 13:42:00;!!!! Nefis D682 G Pro Lite
-10;TRY;WEB;John;Doe;email@email.com;9,05E+11;1;test merchant;26.08.2021 13:39:00;!!!! Nefis D682 G Pro Lite
-7;TRY;WEB;John;Doe;email@email.com;9,05E+11;1;test merchant;26.08.2021 13:07:00;!!!! Nefis D682 G Pro Lite
-1;TRY;WEB;Test Name;Test Surname;menitrust@yahoo.com;5555555555;1;test merchant;25.08.2021 21:24:00;!!!! Nefis D682 G Pro Lite
-1;TRY;WEB;Test Name;Test Surname;menitrust@yahoo.com;5555555555;1;test merchant;25.08.2021 21:17:00;!!!! Nefis D682 G Pro Lite
-1;TRY;WEB;Test Name;Test Surname;menitrust@yahoo.com;5555555555;1;test merchant;25.08.2021 21:16:00;!!!! Nefis D682 G Pro Lite
-1;TRY;WEB;Test Name;Test Surname;menitrust@yahoo.com;5555555555;1;test merchant;25.08.2021 21:12:00;!!!! Nefis D682 G Pro Lite
-1;TRY;WEB;John;Doe;email@email.com;9,05E+11;1;test merchant;24.08.2021 16:11:00;!!!! Nefis D682 G Pro Lite
-1;TRY;WEB;John;Doe;email@email.com;9,05E+11;1;test merchant;24.08.2021 16:09:00;!!!! Nefis D682 G Pro Lite
-1;TRY;WEB;John;Doe;email@email.com;9,05E+11;1;test merchant;24.08.2021 16:05:00;!!!! Nefis D682 G Pro Lite
-1;TRY;WEB;Test Name;Test Surname;menitrust@yahoo.com;5555555555;1;test merchant;24.08.2021 14:07:00;!!!! Nefis D682 G Pro Lite
-1;TRY;WEB;John;Doe;email@email.com;9,05E+11;1;test merchant;24.08.2021 13:36:00;!!!! Nefis D682 G Pro Lite
-1;TRY;WEB;John;Doe;email@email.com;9,05E+11;1;test merchant;24.08.2021 13:33:00;!!!! Nefis D682 G Pro Lite
-1;TRY;WEB;John;Doe;email@email.com;9,05E+11;1;test merchant;24.08.2021 13:31:00;!!!! Nefis D682 G Pro Lite
-1;TRY;WEB;John;Doe;email@email.com;9,05E+11;1;test merchant;24.08.2021 13:29:00;!!!! Nefis D682 G Pro Lite
-1;TRY;WEB;John;Doe;email@email.com;9,05E+11;1;test merchant;24.08.2021 13:27:00;!!!! Nefis D682 G Pro Lite
-1;TRY;WEB;John;Doe;email@email.com;9,05E+11;1;test merchant;24.08.2021 13:23:00;!!!! Nefis D682 G Pro Lite
-1;TRY;WEB;John;Doe;email@email.com;9,05E+11;1;test merchant;24.08.2021 13:21:00;!!!! Nefis D682 G Pro Lite
-1;TRY;WEB;John;Doe;email@email.com;9,05E+11;1;test merchant;24.08.2021 12:52:00;!!!! Nefis D682 G Pro Lite
-1;TRY;WEB;Test Name;Test Surname;menitrust@yahoo.com;5555555555;1;test merchant;24.08.2021 12:51:00;!!!! Nefis D682 G Pro Lite
-1;TRY;WEB;Test Name;Test Surname;menitrust@yahoo.com;5555555555;1;test merchant;24.08.2021 12:41:00;denem dneme deneme pul
-1;TRY;WEB;John;Doe;email@email.com;9,05E+11;1;test merchant;24.08.2021 09:52:00;PLEKSİ PLAKA LIKA 100 GARANTILI
-1;TRY;WEB;John;Doe;email@email.com;9,05E+11;1;test merchant;24.08.2021 09:50:00;PLEKSİ PLAKA LIKA 100 GARANTILI
-1;TRY;WEB;John;Doe;email@email.com;9,05E+11;1;test merchant;24.08.2021 09:47:00;PLEKSİ PLAKA LIKA 100 GARANTILI
-1;TRY;WEB;John;Doe;email@email.com;9,05E+11;1;test merchant;24.08.2021 09:41:00;IMALATCIDAN PLEKSI PLAKA GARANTILI
-1;TRY;WEB;John;Doe;email@email.com;9,05E+11;1;test merchant;24.08.2021 09:35:00;IMALATCIDAN PLEKSI PLAKA GARANTILI
-5;TRY;WEB;John;Doe;tryharder@gmail.com;9,05E+11;1;test merchant;23.08.2021 16:11:00;Kingston USB
-1;TRY;WEB;Test Name;Test Surname;ihsahn@yahoo.com;5555555555;1;test merchant;23.08.2021 14:45:00;Kingston USB
-1;TRY;WEB;Test Name;Test Surname;ihsahn@yahoo.com;5452221199;1;test merchant;23.08.2021 13:33:00;Kingston USB
-1;TRY;WEB;Test Name;Test Surname;menitrust@yahoo.com;5555555555;1;test merchant;20.08.2021 16:07:00;IYZICO TEST ÜRÜNÜ 1 TL
-1;TRY;WEB;Test Name;Test Surname;menitrust@yahoo.com;5555555555;1;test merchant;19.08.2021 15:19:00;Iyzico test ilanı
-325.77;TRY;WEB;sdf;sdf;ihsahn@yahoo.com;5332223344;1;test merchant;19.08.2021 12:46:00;Iyzico test ilanı
-1;TRY;WEB;Test Name;Test Surname;menitrust@yahoo.com;5555555555;1;test merchant;18.08.2021 15:32:00;!!!! Nefis D682 G Pro Lite
-1;TRY;WEB;Test Name;Test Surname;menitrust@yahoo.com;5555555555;1;test merchant;18.08.2021 15:29:00;!!!! Nefis D682 G Pro Lite
-1;TRY;WEB;Test Name;Test Surname;menitrust@yahoo.com;5555555555;1;test merchant;18.08.2021 15:27:00;!!!! Nefis D682 G Pro Lite
-1;TRY;WEB;John;Doe;email@email.com;9,05E+11;374042;commons.com;18.08.2021 15:01:00;!!!! Nefis D682 G Pro Lite
-10;TRY;WEB;John;Doe;email@email.com;9,05E+11;374042;commons.com;18.08.2021 10:04:00;!!!! Nefis D682 G Pro Lite
-1;TRY;WEB;John;Doe;email@email.com;9,05E+11;374042;commons.com;17.08.2021 17:32:00;!!!! Nefis D682 G Pro Lite
-2;TRY;WEB;John;Doe;tryharder@gmail.com;9,05E+11;374042;commons.com;16.08.2021 16:52:00;!!!! Nefis D682 G Pro Lite
-2;TRY;WEB;John;Doe;tryharder@gmail.com;9,05E+11;374042;commons.com;16.08.2021 16:49:00;!!!! Nefis D682 G Pro Lite
-2;TRY;WEB;John;Doe;tryharder@gmail.com;9,05E+11;1;test merchant;16.08.2021 16:44:00;!!!! Nefis D682 G Pro Lite
-2;TRY;WEB;John;Doe;tryharder@gmail.com;9,05E+11;1;test merchant;16.08.2021 16:36:00;!!!! Nefis D682 G Pro Lite
-2;TRY;WEB;John;Doe;tryharder@gmail.com;9,05E+11;1;test merchant;16.08.2021 16:26:00;!!!! Nefis D682 G Pro Lite
-2;TRY;WEB;John;Doe;tryharder@gmail.com;9,05E+11;1;test merchant;16.08.2021 16:21:00;!!!! Nefis D682 G Pro Lite
-2;TRY;WEB;John;Doe;tryharder@gmail.com;9,05E+11;1;test merchant;16.08.2021 16:20:00;!!!! Nefis D682 G Pro Lite
-2;TRY;WEB;John;Doe;tryharder@gmail.com;9,05E+11;1;test merchant;16.08.2021 16:10:00;HERMES - 1. KALITE GERCEK DERİ KEMER KAPIDA ODEME 3TAKSİT
-2;TRY;WEB;John;Doe;tryharder@gmail.com;9,05E+11;1;test merchant;16.08.2021 15:58:00;HERMES - 1. KALITE GERCEK DERİ KEMER KAPIDA ODEME 3TAKSİT
-2;TRY;WEB;John;Doe;tryharder@gmail.com;9,05E+11;1;test merchant;16.08.2021 15:53:00;HERMES - 1. KALITE GERCEK DERİ KEMER KAPIDA ODEME 3TAKSİT
-2;TRY;WEB;John;Doe;tryharder@gmail.com;9,05E+11;1;test merchant;16.08.2021 15:50:00;!!!! Nefis D682 G Pro Lite
-2;TRY;WEB;John;Doe;tryharder@gmail.com;9,05E+11;1;test merchant;16.08.2021 15:48:00;Kingston USB
-2;TRY;WEB;John;Doe;tryharder@gmail.com;9,05E+11;1;test merchant;16.08.2021 15:23:00;HDMI Cable
-1;TRY;WEB;Test Name;Test Surname;menitrust@yahoo.com;5555555555;1;test merchant;13.08.2021 14:43:00;Kingston USB
-1;TRY;WEB;Test Name;Test Surname;menitrust@yahoo.com;5555555555;1;test merchant;13.08.2021 14:43:00;HDMI Cable
-1;TRY;WEB;Test Name;Test Surname;menitrust@yahoo.com;5555555555;1;test merchant;13.08.2021 14:43:00;Müthiş Pilot Kalem 6 TestV A
-7;TRY;WEB;John;Doe;email@email.com;9,05E+11;1;test merchant;13.08.2021 10:00:00;Müthiş Pilot Kalem 6 TestV A
-7;TRY;WEB;John;Doe;email@email.com;9,05E+11;1;test merchant;13.08.2021 09:57:00;Müthiş Pilot Kalem 6 TestV A
-1;TRY;WEB;Test Name;Test Surname;menitrust@yahoo.com;5555555555;1;test merchant;13.08.2021 09:57:00;patlangaç
-0.01;TRY;MOBILE;unknown;unknown;ihsahn@yahoo.com;5552223311;373946;fund merchant;13.08.2021 09:57:00;patlangaç
-7;TRY;WEB;John;Doe;email@email.com;9,05E+11;1;test merchant;13.08.2021 09:51:00;patlangaç
-7;TRY;WEB;John;Doe;email@email.com;9,05E+11;1;test merchant;13.08.2021 09:46:00;!!!! Nefis D682 G Pro Lite
-7;TRY;WEB;John;Doe;email@email.com;9,05E+11;1;test merchant;12.08.2021 17:17:00;!!!! Nefis D682 G Pro Lite
-7;TRY;WEB;John;Doe;email@email.com;9,05E+11;1;test merchant;12.08.2021 17:07:00;!!!! Nefis D682 G Pro Lite
-7;TRY;WEB;John;Doe;email@email.com;9,05E+11;1;test merchant;12.08.2021 17:05:00;!!!! Nefis D682 G Pro Lite
-1;TRY;WEB;Test Name;Test Surname;menitrust@yahoo.com;5555555555;1;test merchant;11.08.2021 16:14:00;!!!! Nefis D682 G Pro Lite
-1;TRY;WEB;Test Name;Test Surname;menitrust@yahoo.com;5555555555;1;test merchant;11.08.2021 16:14:00;!!!! Nefis D682 G Pro Lite
-1;TRY;WEB;Test Name;Test Surname;menitrust@yahoo.com;5555555555;960506;gulcabuk;11.08.2021 15:18:00;!!!! Nefis D682 G Pro Lite
-1;TRY;WEB;Test Name;Test Surname;menitrust@yahoo.com;5555555555;960957;test.com;11.08.2021 14:28:00;Müthiş Pilot Kalem 6 TestV A
-1;TRY;WEB;Test Name;Test Surname;menitrust@yahoo.com;5555555555;960957;test.com;11.08.2021 13:47:00;!!!! Nefis D682 G Pro Lite
-1;TRY;WEB;John;Doe;johndoe@yahoo.com;9,06E+11;960963;deneme.com;11.08.2021 09:32:00;!!!! Nefis D682 G Pro Lite
-1;TRY;WEB;Test Name;Test Surname;akira.kurasawa@yahoo.com;5555555555;1024;expocarsi.com;11.08.2021 09:28:00;HERMES - 1. KALITE GERCEK DERİ KEMER KAPIDA ODEME 3TAKSİT
-1;TRY;WEB;Test Name;Test Surname;menitrust@yahoo.com;5555555555;1024;expocarsi.com;11.08.2021 09:27:00;HERMES - 1. KALITE GERCEK DERİ KEMER KAPIDA ODEME 3TAKSİT
-1;TRY;WEB;Test Name;Test Surname;menitrust@yahoo.com;5555555555;1024;expocarsi.com;10.08.2021 16:50:00;Müthiş Pilot Kalem 6 TestV A
-1;TRY;WEB;Test Name;Test Surname;menitrust@yahoo.com;5555555555;1;test merchant;10.08.2021 15:21:00;Müthiş Pilot Kalem 6 TestV A
-900;TRY;WEB;John;Doe;email@yahoo.com;9,05E+11;1;test merchant;10.08.2021 15:20:00;dasddasasddsadasdsadsa
-5;TRY;WEB;buyerName;buyerSurname;nbc@outlook.com;9,05E+11;960960;daftpunk;10.08.2021 14:08:00;dasasddsadasdsadsdsadsadsadsa
-5;TRY;WEB;buyerName;buyerSurname;nbc@outlook.com;9,05E+11;960960;daftpunk;10.08.2021 14:05:00;Müthiş Pilot Kalem 6 TestV A
-1;TRY;WEB;John;Doe;email@email.com;9,05E+11;960960;daftpunk;10.08.2021 14:03:00;Müthiş Pilot Kalem 6 TestV A
-1;TRY;WEB;John;Doe;email@email.com;9,05E+11;960960;daftpunk;10.08.2021 14:02:00;Müthiş Pilot Kalem 6 TestV A
-1;TRY;WEB;John;Doe;email@email.com;9,05E+11;960960;daftpunk;10.08.2021 14:01:00;Müthiş Pilot Kalem 6 TestV A
-5;TRY;WEB;buyerName;buyerSurname;nbc@outlook.com;9,05E+11;960960;daftpunk;10.08.2021 13:52:00;Müthiş Pilot Kalem 6 TestV A
-1;TRY;WEB;Test Name;Test Surname;tryharder@gmail.com;5555555555;1024;expocarsi.com;10.08.2021 13:49:00;Test ilanıdır dikkate almayınız
-900;TRY;WEB;John;Doe;email@yahoo.com;9,05E+11;1;test merchant;10.08.2021 10:54:00;Müthiş Pilot Kalem 6 TestV A
-900;TRY;WEB;John;Doe;email@yahoo.com;9,05E+11;1;test merchant;10.08.2021 10:43:00;Müthiş Pilot Kalem 6 TestV A
-1;TRY;WEB;Test Name;Test Surname;akira.kurasawa@yahoo.com;5555555555;1024;expocarsi.com;10.08.2021 10:30:00;Müthiş Pilot Kalem 6 TestV A
-1;TRY;WEB;Test Name;Test Surname;tryharder@gmail.com;5555555555;1024;expocarsi.com;09.08.2021 09:52:00;Müthiş Pilot Kalem 6 TestV A
-1;TRY;WEB;Test Name;Test Surname;tryharder@gmail.com;5555555555;1024;expocarsi.com;09.08.2021 09:32:00;Müthiş Pilot Kalem 6 TestV A
-1;TRY;WEB;Test Name;Test Surname;tryharder@gmail.com;5555555555;1024;expocarsi.com;08.08.2021 22:19:00;Müthiş Pilot Kalem 6 TestV A
-1;TRY;WEB;Hulusi;Test Surname;borknagar@myspace.com;5322222222;960963;deneme.com;06.08.2021 14:40:00;Müthiş Pilot Kalem 6 TestV A
-1;TRY;WEB;Hulusi;Test Surname;borknagar@myspace.com;5322222222;960963;deneme.com;06.08.2021 14:33:00;Müthiş Pilot Kalem 6 TestV A
-1;TRY;WEB;Test Name;Test Surname;borknagar@myspace.com;5322222222;960963;deneme.com;06.08.2021 14:26:00;Fotoğraf Kamera Aksesuarlar Battery G
-1;TRY;WEB;Hulusi;Test Surname;borknagar@myspace.com;5322222222;960963;deneme.com;06.08.2021 14:24:00;Hava Hortumu Vantuzu 5 adet
-1;TRY;WEB;Hulusi;Test Surname;borknagar@myspace.com;5322222222;960963;deneme.com;06.08.2021 14:17:00;1 tl iyzico ürünü
-1;TRY;WEB;Test Name;Test Surname;akira.kurasawa@yahoo.com;5555555555;1;test merchant;06.08.2021 09:38:00;1 tl iyzico ürünü
-1;TRY;WEB;Test Name;Test Surname;akira.kurasawa@yahoo.com;5555555555;1;test merchant;05.08.2021 14:28:00;1 tl iyzico ürünü
-1;TRY;WEB;Test Name;Test Surname;akira.kurasawa@yahoo.com;5555555555;1;test merchant;05.08.2021 14:26:00;Kingston USB
-1;TRY;WEB;Test Name;Test Surname;enslaved@myspace.com;5555555555;1;test merchant;05.08.2021 14:24:00;HDMI Cable
-1;TRY;WEB;Test Name;Test Surname;tryharder@gmail.com;5555555555;15;tasarlapaylas.com;03.08.2021 18:14:00;Kingston USB
-1;TRY;WEB;Test Name;Test Surname;tryharder@gmail.com;5555555555;15;tasarlapaylas.com;03.08.2021 18:08:00;HDMI Cable
-1;TRY;WEB;Test Name;Test Surname;tryharder@gmail.com;5555555555;15;tasarlapaylas.com;03.08.2021 17:59:00;Kingston USB
-1;TRY;WEB;Test Name;Test Surname;tryharder@gmail.com;5555555555;15;tasarlapaylas.com;03.08.2021 17:52:00;HDMI Cable
-1;TRY;WEB;Test Name;Test Surname;tryharder@gmail.com;5555555555;15;tasarlapaylas.com;03.08.2021 17:45:00;Kingston USB
-1;TRY;WEB;Test Name;Test Surname;tryharder@gmail.com;5555555555;15;tasarlapaylas.com;03.08.2021 17:36:00;Kingston USB
-1;TRY;WEB;Test Name;Test Surname;tryharder@gmail.com;5555555555;15;tasarlapaylas.com;03.08.2021 17:33:00;HDMI Cable
-0.5;TRY;WEB;John;Doe;email@email.com;9,05E+11;15;tasarlapaylas.com;03.08.2021 17:30:00;Kingston USB
-1;TRY;WEB;John;Doe;email@email.com;9,05E+11;15;tasarlapaylas.com;03.08.2021 17:23:00;Kingston USB
-1;TRY;WEB;Test Name;Test Surname;tryharder@gmail.com;5555555555;15;tasarlapaylas.com;03.08.2021 17:21:00;HDMI Cable
-1;TRY;WEB;John;Doe;email@email.com;9,05E+11;1;test merchant;03.08.2021 17:13:00;Kingston USB
-1;TRY;WEB;Test Name;Test Surname;tryharder@gmail.com;5555555555;15;tasarlapaylas.com;03.08.2021 17:02:00;Kingston USB
-1;TRY;WEB;Test Name;Test Surname;tryharder@gmail.com;5555555555;15;tasarlapaylas.com;03.08.2021 16:47:00;HDMI Cable
-1;TRY;WEB;Test Name;Test Surname;tryharder@gmail.com;5555555555;15;tasarlapaylas.com;03.08.2021 16:39:00;Kingston USB
-1;TRY;WEB;Test Name;Test Surname;tryharder@gmail.com;5555555555;15;tasarlapaylas.com;03.08.2021 16:34:00;Kingston USB
-1;TRY;WEB;John;Doe;email@email.com;9,05E+11;1;test merchant;03.08.2021 16:20:00;HDMI Cable
-1;TRY;WEB;John;Doe;email@email.com;9,05E+11;1;test merchant;03.08.2021 16:19:00;Kingston USB
-1;TRY;WEB;John;Doe;email@email.com;9,05E+11;1;test merchant;03.08.2021 16:18:00;HDMI Cable
-1;TRY;WEB;John;Doe;email@email.com;9,05E+11;1;test merchant;03.08.2021 16:14:00;Kingston USB
-1;TRY;WEB;John;Doe;email@email.com;9,05E+11;374042;commons.com;27.07.2021 18:11:00;HDMI Cable
-1;TRY;WEB;John;Doe;email@email.com;9,05E+11;374042;commons.com;27.07.2021 18:02:00;Kingston USB
-1;TRY;WEB;John;Doe;email@email.com;9,05E+11;374042;commons.com;27.07.2021 17:57:00;HDMI Cable
-1;TRY;WEB;John;Doe;email@email.com;9,05E+11;374042;commons.com;27.07.2021 17:47:00;Kingston USB
-1;TRY;WEB;John;Doe;email@email.com;9,05E+11;374042;commons.com;27.07.2021 17:46:00;HDMI Cable
-1;TRY;WEB;John;Doe;email@email.com;9,05E+11;374042;commons.com;27.07.2021 17:39:00;Kingston USB
-1;TRY;WEB;John;Doe;email@email.com;9,05E+11;374042;commons.com;27.07.2021 17:37:00;HDMI Cable
-1;TRY;WEB;John;Doe;email@email.com;9,05E+11;1;test merchant;27.07.2021 17:34:00;Kingston USB
-1;TRY;WEB;Test Name;Test Surname;080808@gmail.com;5458000000;960506;firlatyakala.com;27.07.2021 16:07:00;HDMI Cable
-1;TRY;WEB;Test Name;Test Surname;080808@gmail.com;5458000000;960506;firlatyakala.com;27.07.2021 15:57:00;Kingston USB
-1;TRY;WEB;Test Name;Test Surname;080808@gmail.com;5458000000;960506;firlatyakala.com;27.07.2021 15:44:00;HDMI Cable
+payment_id;price;code;payment_channel;name;surname;email;gsm_number;merchant_num;merchant_name;transaction_date;item_name
+980;1;TRY;WEB;John;Doe;email@email.com;9,05E+11;374093;ucakciniz.com;16.10.2021 22:55:00;müthiş kalem
+703;1;TRY;WEB;John;Doe;email@email.com;9,05E+11;374093;ucakciniz.com;16.10.2021 22:46:00;müthiş kalem
+948;1;TRY;WEB;John;Doe;email@email.com;9,05E+11;374093;ucakciniz.com;16.10.2021 22:44:00;müthiş kalem
+950;1;TRY;WEB;John;Doe;email@email.com;9,05E+11;374093;ucakciniz.com;16.10.2021 21:59:00;IYZICO TEST ILANI 1-TL
+400;1;TRY;WEB;John;Doe;email@email.com;9,05E+11;374093;ucakciniz.com;16.10.2021 21:55:00;IYZICO TEST ILANI 1-TL
+158;1;TRY;WEB;John;Doe;email@email.com;9,05E+11;374093;ucakciniz.com;16.10.2021 21:50:00;IYZICO TEST ILANI 1-TL
+304;1;TRY;WEB;John;Doe;email@email.com;9,05E+11;374093;ucakciniz.com;16.10.2021 21:44:00;IYZICO TEST ILANI 1-TL
+979;1;TRY;WEB;John;Doe;email@email.com;9,05E+11;374093;ucakciniz.com;16.10.2021 21:43:00;IYZICO TEST ILANI 1-TL
+189;1;TRY;WEB;John;Doe;email@email.com;9,05E+11;374093;ucakciniz.com;16.10.2021 21:41:00;IYZICO TEST ILANI 1-TL
+859;1;TRY;WEB;John;Doe;email@email.com;9,05E+11;374093;ucakciniz.com;16.10.2021 21:31:00;müthiş kalem
+708;1;TRY;WEB;John;Doe;email@email.com;9,05E+11;374093;ucakciniz.com;16.10.2021 21:24:00;IYZICO TEST ILANI 1-TL
+990;1;TRY;WEB;John;Doe;email@email.com;9,05E+11;374093;ucakciniz.com;16.10.2021 21:16:00;müthiş kalem
+283;1;TRY;WEB;John;Doe;email@email.com;9,05E+11;374093;ucakciniz.com;16.10.2021 21:00:00;!!!! Nefis D682 G Pro Lite
+231;1;TRY;WEB;John;Doe;email@email.com;9,05E+11;374093;ucakciniz.com;16.10.2021 20:57:00;müthiş kalem
+479;1;TRY;WEB;John;Doe;email@email.com;9,05E+11;374093;ucakciniz.com;16.10.2021 20:45:00;!!!! Nefis D682 G Pro Lite
+690;1;TRY;WEB;John;Doe;email@email.com;9,05E+11;374093;ucakciniz.com;16.10.2021 20:11:00;!!!! Nefis D682 G Pro Lite
+359;1;TRY;WEB;John;Doe;email@email.com;9,05E+11;374093;ucakciniz.com;16.10.2021 20:04:00;müthiş kalem
+166;1;TRY;WEB;John;Doe;email@email.com;9,05E+11;374093;ucakciniz.com;14.10.2021 16:52:00;müthiş kalem
+908;1;TRY;WEB;John;Doe;email@email.com;9,05E+11;374093;ucakciniz.com;14.10.2021 16:49:00;Kingston USB
+961;1;TRY;WEB;John;Doe;email@email.com;9,05E+11;374093;ucakciniz.com;14.10.2021 16:43:00;müthiş HDMI Cable
+718;1;TRY;WEB;John;Doe;email@email.com;9,05E+11;374093;ucakciniz.com;14.10.2021 15:56:00;Kingston USB
+508;1;TRY;WEB;John;Doe;email@email.com;9,05E+11;374093;ucakciniz.com;14.10.2021 15:55:00;HDMI Cable
+973;1;TRY;WEB;John;Doe;email@email.com;9,05E+11;374093;ucakciniz.com;14.10.2021 15:39:00;Kingston USB
+738;1;TRY;WEB;John;Doe;email@email.com;9,05E+11;374093;ucakciniz.com;14.10.2021 15:37:00;HDMI Cable
+821;1;TRY;WEB;John;Doe;email@email.com;9,05E+11;374093;ucakciniz.com;14.10.2021 15:34:00;Kingston USB
+719;1;TRY;WEB;John;Doe;email@email.com;9,05E+11;374093;ucakciniz.com;14.10.2021 15:32:00;HDMI Cable
+904;1;TRY;WEB;John;Doe;email@email.com;9,05E+11;374093;ucakciniz.com;14.10.2021 15:04:00;Kingston USB
+317;1;TRY;WEB;John;Doe;email@email.com;9,05E+11;374093;ucakciniz.com;14.10.2021 15:04:00;HDMI Cable
+20;1;TRY;WEB;John;Doe;email@email.com;9,05E+11;374093;ucakciniz.com;14.10.2021 15:02:00;Philips HR1388/50 Salata Ustası
+188;1;TRY;WEB;John;Doe;email@email.com;9,05E+11;374093;ucakciniz.com;14.10.2021 14:58:00;Kingston USB
+123;1;TRY;WEB;John;Doe;email@email.com;9,05E+11;374093;ucakciniz.com;14.10.2021 14:58:00;HDMI Cable
+813;1;TRY;WEB;John;Doe;email@email.com;9,05E+11;374093;ucakciniz.com;14.10.2021 14:51:00;Philips HR1388/50 Salata Ustası
+530;1;TRY;WEB;John;Doe;email@email.com;9,05E+11;374093;ucakciniz.com;14.10.2021 14:49:00;Kingston USB
+448;1;TRY;WEB;John;Doe;email@email.com;9,05E+11;374093;ucakciniz.com;14.10.2021 14:48:00;HDMI Cable
+126;1;TRY;WEB;John;Doe;email@email.com;9,05E+11;374093;ucakciniz.com;14.10.2021 14:43:00;Philips HR1388/50 Salata Ustası
+371;1;TRY;WEB;John;Doe;email@email.com;9,05E+11;374093;ucakciniz.com;14.10.2021 14:27:00;Kingston USB
+995;1;TRY;WEB;John;Doe;email@email.com;9,05E+11;374093;ucakciniz.com;14.10.2021 14:21:00;HDMI Cable
+517;1;TRY;WEB;John;Doe;email@email.com;9,05E+11;374093;ucakciniz.com;14.10.2021 10:16:00;Kingston USB
+740;1;TRY;WEB;John;Doe;email@email.com;9,05E+11;374093;ucakciniz.com;13.10.2021 13:01:00;HDMI Cable
+280;1;TRY;WEB;John;Doe;email@email.com;9,05E+11;374093;ucakciniz.com;13.10.2021 12:59:00;Kingston USB
+851;1;TRY;WEB;John;Doe;email@email.com;9,05E+11;374093;ucakciniz.com;13.10.2021 11:44:00;HDMI Cable
+908;1;TRY;WEB;John;Doe;email@email.com;9,05E+11;374093;ucakciniz.com;13.10.2021 10:48:00;Kingston USB
+823;1;TRY;WEB;John;Doe;email@email.com;9,05E+11;374093;ucakciniz.com;04.10.2021 11:25:00;HDMI Cable
+536;1;TRY;WEB;John;Doe;email@email.com;9,05E+11;374093;ucakciniz.com;01.10.2021 18:15:00;Philips HR1388/50 Salata Ustası
+1;1;TRY;WEB;John;Doe;email@email.com;9,05E+11;374093;ucakciniz.com;01.10.2021 18:14:00;Kingston USB
+439;0.1;TRY;WEB;Test Name;Test Surname;menitrust@yahoo.com;5555555555;1;test merchant;29.09.2021 23:02:00;HDMI Cable
+865;1;TRY;WEB;John;Doe;kemal.sunal@yahoo.co.uk;9,05E+11;1;test merchant;27.09.2021 17:10:00;Philips HR1388/50 Salata Ustası
+828;1;TRY;WEB;John;Doe;email@email.com;9,05E+11;1;test merchant;27.09.2021 16:13:00;Fakir Ceremony Çamaşır Makinesi
+220;1;TRY;WEB;John;Doe;email@email.com;9,05E+11;1;test merchant;27.09.2021 16:12:00;Philips AT610/14 AquaTouch Islak Kuru Tra_ Makinesi
+989;1;TRY;WEB;John;Doe;email@email.com;9,05E+11;1;test merchant;27.09.2021 16:12:00;Kingston USB
+851;1;TRY;WEB;John;Doe;email@email.com;9,05E+11;1;test merchant;27.09.2021 16:11:00;HDMI Cable
+645;1;TRY;WEB;John;Doe;email@email.com;9,05E+11;1;test merchant;27.09.2021 16:11:00;Philips AT610/14 AquaTouch Islak Kuru Tra_ Makinesi
+985;1;TRY;WEB;John;Doe;email@email.com;9,05E+11;1;test merchant;27.09.2021 16:05:00;Philips HR1388/50 Salata Ustası
+371;1;TRY;WEB;John;Doe;email@email.com;9,05E+11;1;test merchant;27.09.2021 16:05:00;Philips AT610/14 AquaTouch Islak Kuru Tra_ Makinesi
+721;1;TRY;WEB;John;Doe;email@email.com;9,05E+11;1;test merchant;27.09.2021 16:04:00;Philips HR1388/50 Salata Ustası
+693;1;TRY;WEB;John;Doe;email@email.com;9,05E+11;1;test merchant;27.09.2021 16:03:00;Philips HR1388/50 Salata Ustası
+404;1;TRY;WEB;John;Doe;email@email.com;9,05E+11;1;test merchant;27.09.2021 16:01:00;Fakir Ceremony Çamaşır Makinesi
+246;1;TRY;WEB;John;Doe;kemal.sunal@yahoo.co.uk;9,05E+11;1;test merchant;27.09.2021 15:33:00;Fakir Ceremony Çamaşır Makinesi
+639;1;TRY;WEB;John;Doe;kemal.sunal@yahoo.co.uk;9,05E+11;1;test merchant;27.09.2021 15:33:00;Fakir Ceremony Çamaşır Makinesi
+345;1;TRY;WEB;John;Doe;kemal.sunal@yahoo.co.uk;9,05E+11;1;test merchant;27.09.2021 15:30:00;TEFAL Secure 5 DŸdŸklŸ Tencere 6 Lt
+146;5;TRY;WEB;John;Doe;tryharder@gmail.com;9,05E+11;1;test merchant;27.09.2021 15:24:00;Janome Flower 313 Diki_ Makinesi
+754;5;TRY;WEB;John;Doe;tryharder@gmail.com;9,05E+11;1;test merchant;27.09.2021 15:24:00;Philips HR1388/50 Salata Ustası
+814;5;TRY;WEB;John;Doe;tryharder@gmail.com;9,05E+11;1;test merchant;27.09.2021 15:16:00;Philips HR1388/50 Salata Ustası
+363;1;TRY;WEB;John;Doe;email@email.com;9,05E+11;1;test merchant;27.09.2021 15:15:00;Philips HR1388/50 Salata Ustası
+588;1;TRY;WEB;John;Doe;email@email.com;9,05E+11;1;test merchant;27.09.2021 15:15:00;Philips GC4870/26 200gr Azur Buharlı †tŸ
+424;5;TRY;WEB;John;Doe;tryharder@gmail.com;9,05E+11;1;test merchant;27.09.2021 15:10:00;Philips GC4870/26 200gr Azur Buharlı †tŸ
+307;1;TRY;WEB;John;Doe;tryharder@gmail.com;9,05E+11;1;test merchant;27.09.2021 15:10:00;Philips GC4870/26 200gr Azur Buharlı †tŸ
+6;1;TRY;WEB;John;Doe;tryharder@gmail.com;9,05E+11;1;test merchant;27.09.2021 15:09:00;Philips HR1855/00 Viva Collection Katı Meyve Sıkacağı
+762;1;TRY;WEB;John;Doe;kemal.sunal@yahoo.co.uk;9,05E+11;1;test merchant;27.09.2021 13:52:00;Philips HR1855/00 Viva Collection Katı Meyve Sıkacağı
+138;1;TRY;WEB;John;Doe;kemal.sunal@yahoo.co.uk;9,05E+11;1;test merchant;27.09.2021 13:45:00;Philips AT610/14 AquaTouch Islak Kuru Trağ Makinesi
+116;1;TRY;WEB;John;Doe;tryharder@gmail.com;9,05E+11;1;test merchant;27.09.2021 13:39:00;Fakir Ceremony Çamaşır Makinesi
+966;1;TRY;WEB;Test Name;Test Surname;menitrust@yahoo.com;5555555555;1;test merchant;27.09.2021 09:15:00;Müthiş Pilot Kalem
+457;1;TRY;WEB;John;Doe;email@email.com;9,05E+11;1;test merchant;24.09.2021 15:51:00;Müthiş Pilot Kalem
+931;1;TRY;WEB;John;Doe;email@email.com;9,05E+11;1;test merchant;24.09.2021 15:50:00;Müthiş Pilot Kalem
+673;1;TRY;WEB;John;Doe;email@email.com;9,05E+11;1;test merchant;24.09.2021 15:48:00;Müthiş Pilot Kalem
+32;1;TRY;WEB;John;Doe;email@email.com;9,05E+11;1;test merchant;24.09.2021 15:40:00;Philips HR1388/50 Salata Ustası
+717;1;TRY;WEB;Test Name;Test Surname;menitrust@yahoo.com;5555555555;1;test merchant;24.09.2021 13:44:00;Philips HR1388/50 Salata Ustası
+300;1;TRY;WEB;Test Name;Test Surname;menitrust@yahoo.com;5555555555;1;test merchant;24.09.2021 13:43:00;Philips HR1388/50 Salata Ustası
+243;1;TRY;WEB;Test Name;Test Surname;menitrust@yahoo.com;5555555555;1;test merchant;24.09.2021 13:43:00;IYZICO TEST ILANI 1-TL
+655;1.02;TRY;MOBILE;Tarık;Akan;tarik.akan@yahoo.com;5555555555;373946;fund merchant;24.09.2021 13:43:00;IYZICO TEST ILANI 1-TL
+395;1;TRY;WEB;John;Doe;email@email.com;9,05E+11;1;test merchant;24.09.2021 12:03:00;IYZICO TEST ILANI 1-TL
+142;1;TRY;WEB;John;Doe;email@email.com;9,05E+11;1;test merchant;24.09.2021 12:01:00;IYZICO TEST ILANI 1-TL
+11;1;TRY;WEB;John;Doe;tryharder@gmail.com;9,05E+11;1;test merchant;23.09.2021 17:11:00;IYZICO TEST ILANI 1-TL
+32;1;TRY;WEB;Test Name;Test Surname;menitrust@yahoo.com;5555555555;1;test merchant;23.09.2021 13:00:00;IYZICO TEST ILANI 1-TL
+773;1;TRY;WEB;John;Doe;email@email.com;9,05E+11;1;test merchant;23.09.2021 11:24:00;Philips HR1388/50 Salata Ustası
+833;1;TRY;WEB;John;Doe;email@email.com;9,05E+11;1;test merchant;23.09.2021 11:23:00;Philips GC4870/26 200gr Azur Buharlı †tŸ
+550;1;TRY;WEB;John;Doe;email@email.com;9,05E+11;1;test merchant;22.09.2021 20:58:00;IYZICO TEST ILANI 1-TL
+136;1;TRY;WEB;John;Doe;email@email.com;9,05E+11;1;test merchant;22.09.2021 20:50:00;IYZICO TEST ILANI 1-TL
+842;1;TRY;WEB;John;Doe;email@email.com;9,05E+11;1;test merchant;22.09.2021 20:48:00;Bambum Pinoli Nihale
+856;1;TRY;WEB;John;Doe;email@email.com;9,05E+11;1;test merchant;22.09.2021 18:08:00;IYZICO TEST ILANI 1-TL
+882;1;TRY;WEB;John;Doe;email@email.com;9,05E+11;1;test merchant;22.09.2021 17:52:00;IYZICO TEST ILANI 1-TL
+882;1;TRY;WEB;John;Doe;email@email.com;9,05E+11;1;test merchant;22.09.2021 17:47:00;IYZICO TEST ILANI 1-TL
+23;1;TRY;WEB;John;Doe;email@email.com;9,05E+11;1;test merchant;22.09.2021 17:46:00;IYZICO TEST ILANI 1-TL
+228;1;TRY;WEB;John;Doe;email@email.com;9,05E+11;1;test merchant;22.09.2021 17:43:00;IYZICO TEST ILANI 1-TL
+317;1;TRY;WEB;John;Doe;email@email.com;9,05E+11;1;test merchant;22.09.2021 17:27:00;IYZICO TEST ILANI 1-TL
+895;1;TRY;WEB;John;Doe;tryharder@gmail.com;9,05E+11;1;test merchant;22.09.2021 16:26:00;IYZICO TEST ILANI 1-TL
+553;1;TRY;WEB;John;Doe;tryharder@gmail.com;9,05E+11;1;test merchant;22.09.2021 16:11:00;IYZICO TEST ILANI 1-TL
+283;1;TRY;WEB;John;Doe;tryharder@gmail.com;9,05E+11;1;test merchant;22.09.2021 16:00:00;Müthiş Pilot Kalem
+501;1;TRY;WEB;John;Doe;tryharder@gmail.com;9,05E+11;1;test merchant;22.09.2021 15:48:00;!!!! Nefis D682 G Pro Lite
+879;1;TRY;WEB;Test Name;Test Surname;menitrust@yahoo.com;5555555555;1;test merchant;22.09.2021 13:46:00;IYZICO TEST ILANI 1-TL
+194;1;TRY;WEB;Test Name;Test Surname;menitrust@yahoo.com;5555555555;1;test merchant;22.09.2021 12:17:00;Müthiş Pilot Kalem
+49;1;TRY;WEB;Test Name;Test Surname;menitrust@yahoo.com;5555555555;1;test merchant;22.09.2021 12:15:00;Müthiş Pilot Kalem
+647;1;TRY;WEB;Test Name;Test Surname;menitrust@yahoo.com;5555555555;1;test merchant;22.09.2021 12:08:00;Müthiş Pilot Kalem
+805;1;TRY;WEB;John;Doe;tryharder@gmail.com;9,05E+11;1;test merchant;21.09.2021 10:07:00;!!!! Nefis D682 G Pro Lite
+828;1;TRY;WEB;John;Doe;email@email.com;9,05E+11;1;test merchant;20.09.2021 23:24:00;Müthiş Pilot Kalem
+421;1;TRY;WEB;John;Doe;email@email.com;9,05E+11;1;test merchant;20.09.2021 23:21:00;!!!! Nefis D682 G Pro Lite
+149;1;TRY;WEB;John;Doe;tryharder@gmail.com;9,05E+11;1;test merchant;20.09.2021 17:47:00;!!!! Nefis D682 G Pro Lite
+224;1;TRY;WEB;John;Doe;tryharder@gmail.com;9,05E+11;1;test merchant;20.09.2021 17:43:00;!!!! Nefis D682 G Pro Lite
+489;1;TRY;WEB;John;Doe;tryharder@gmail.com;9,05E+11;1;test merchant;20.09.2021 17:38:00;!!!! Nefis D682 G Pro Lite
+151;1;TRY;WEB;John;Doe;tryharder@gmail.com;9,05E+11;1;test merchant;20.09.2021 17:28:00;masa šrtŸsŸ
+520;1;TRY;WEB;John;Doe;tryharder@gmail.com;9,05E+11;1;test merchant;20.09.2021 17:24:00;IYZICO TEST ILANI 1-TL
+552;1;TRY;WEB;John;Doe;email@email.com;9,05E+11;1;test merchant;20.09.2021 17:03:00;IYZICO TEST ILANI 1-TL
+998;1;TRY;WEB;John;Doe;email@email.com;9,05E+11;1;test merchant;20.09.2021 16:59:00;!!!! Nefis D682 G Pro Lite
+492;1;TRY;WEB;John;Doe;email@email.com;9,05E+11;1;test merchant;20.09.2021 16:56:00;!!!! Nefis D682 G Pro Lite
+629;1;TRY;WEB;John;Doe;email@email.com;9,05E+11;1;test merchant;20.09.2021 16:53:00;masa šrtŸsŸ-2
+430;1;TRY;WEB;John;Doe;email@email.com;9,05E+11;1;test merchant;20.09.2021 16:53:00;!!!! Nefis D682 G Pro Lite
+501;1;TRY;WEB;John;Doe;email@email.com;9,05E+11;1;test merchant;20.09.2021 16:50:00;!!!! Nefis D682 G Pro Lite
+523;1;TRY;WEB;John;Doe;email@email.com;9,05E+11;1;test merchant;20.09.2021 16:45:00;!!!! Nefis D682 G Pro Lite
+374;1;TRY;WEB;John;Doe;email@email.com;9,05E+11;1;test merchant;20.09.2021 16:44:00;!!!! Nefis D682 G Pro Lite
+157;1;TRY;WEB;John;Doe;email@email.com;9,05E+11;1;test merchant;20.09.2021 14:26:00;!!!! Nefis D682 G Pro Lite
+290;1;TRY;WEB;John;Doe;email@email.com;9,05E+11;1;test merchant;20.09.2021 14:18:00;!!!! Nefis D682 G Pro Lite
+799;1;TRY;WEB;John;Doe;email@email.com;9,05E+11;1;test merchant;20.09.2021 14:13:00;!!!! Nefis D682 G Pro Lite
+531;1;TRY;WEB;John;Doe;email@email.com;9,05E+11;1;test merchant;20.09.2021 14:10:00;!!!! Nefis D682 G Pro Lite
+875;1;TRY;WEB;John;Doe;email@email.com;9,05E+11;374042;commons.com;20.09.2021 13:48:00;!!!! Nefis D682 G Pro Lite
+568;1;TRY;WEB;John;Doe;email@email.com;9,05E+11;374042;commons.com;20.09.2021 13:45:00;Müthiş Pilot Kalem
+347;1;TRY;WEB;John;Doe;email@email.com;9,05E+11;374042;commons.com;20.09.2021 13:43:00;Müthiş Pilot Kalem
+933;1;TRY;WEB;John;Doe;email@email.com;9,05E+11;1;test merchant;20.09.2021 11:36:00;Müthiş Pilot Kalem
+821;1;TRY;WEB;John;Doe;email@email.com;9,05E+11;1;test merchant;20.09.2021 11:27:00;Müthiş Pilot Kalem
+564;1;TRY;WEB;John;Doe;email@email.com;9,05E+11;1;test merchant;20.09.2021 11:12:00;Philips AT610/14 AquaTouch Islak Kuru Traş Makinesi
+896;1;TRY;WEB;John;Doe;email@email.com;9,05E+11;1;test merchant;20.09.2021 11:05:00;Philips AT610/14 AquaTouch Islak Kuru Traş Makinesi
+310;1;TRY;WEB;John;Doe;email@email.com;9,05E+11;1;test merchant;20.09.2021 11:04:00;DELL LATITUDE E6400 ANAKART SA_LAM
+319;1;TRY;WEB;John;Doe;email@email.com;9,05E+11;1;test merchant;20.09.2021 10:55:00;DELL LAT_TUDE E6400 ANAKART SA_LAM
+643;1;TRY;WEB;John;Doe;email@email.com;9,05E+11;1;test merchant;20.09.2021 10:53:00;IYZICO TEST ILANI 1-TL
+556;1;TRY;WEB;John;Doe;email@email.com;9,05E+11;1;test merchant;20.09.2021 10:51:00;IYZICO TEST ILANI 1-TL
+546;1;TRY;WEB;John;Doe;email@email.com;9,05E+11;1;test merchant;20.09.2021 10:27:00;!!!! Nefis D682 G Pro Lite
+626;1;TRY;WEB;John;Doe;email@email.com;9,05E+11;1;test merchant;17.09.2021 13:20:00;!!!! Nefis D682 G Pro Lite
+650;1;TRY;WEB;John;Doe;email@email.com;9,05E+11;1;test merchant;17.09.2021 13:12:00;!!!! Nefis D682 G Pro Lite
+707;1;TRY;WEB;John;Doe;email@email.com;9,05E+11;374042;commons.com;17.09.2021 11:55:00;Fakir Ceremony Çamaşır Makinesi
+899;1;TRY;WEB;John;Doe;email@email.com;9,05E+11;374042;commons.com;17.09.2021 11:21:00;!!!! Nefis D682 G Pro Lite
+966;1;TRY;WEB;Test Name;Test Surname;menitrust@yahoo.com;5555555555;1;test merchant;17.09.2021 10:13:00;!!!! Nefis D682 G Pro Lite
+934;1;TRY;WEB;Test Name;Test Surname;menitrust@yahoo.com;5555555555;1;test merchant;17.09.2021 09:59:00;!!!! Nefis D682 G Pro Lite
+162;1;TRY;WEB;John;Doe;email@email.com;9,05E+11;374042;commons.com;16.09.2021 17:54:00;Müthiş Pilot Kalem
+44;1;TRY;WEB;John;Doe;email@email.com;9,05E+11;1;test merchant;16.09.2021 16:06:00;Müthiş Pilot Kalem
+824;1;TRY;WEB;John;Doe;tryharder@gmail.com;9,05E+11;1;test merchant;15.09.2021 11:52:00;Müthiş Pilot Kalem
+869;1;TRY;WEB;John;Doe;email@email.com;9,05E+11;1;test merchant;15.09.2021 11:44:00;Müthiş Pilot Kalem
+955;1;TRY;WEB;Test Name;Test Surname;menitrust@yahoo.com;5555555555;1;test merchant;14.09.2021 15:10:00;Pilot Kalem
+929;1;TRY;WEB;John;Doe;email@email.com;9,05E+11;1;test merchant;14.09.2021 13:39:00;Müthiş Pilot Kalem
+861;1;TRY;WEB;Test Name;Test Surname;menitrust@yahoo.com;5555555555;1;test merchant;14.09.2021 12:25:00;Philips GC4870/26 200gr Azur Buharlı
+114;1;TRY;WEB;Test Name;Test Surname;menitrust@yahoo.com;5555555555;1;test merchant;14.09.2021 12:14:00;AlııverişBilgisayar‚evre BirimleriMouse
+862;1;TRY;WEB;Test Name;Test Surname;menitrust@yahoo.com;5555555555;1;test merchant;14.09.2021 11:28:00;Alı_veri_Ev Elektroni_iTelefonTelsiz
+387;1;TRY;WEB;Test Name;Test Surname;menitrust@yahoo.com;5555555555;1;test merchant;14.09.2021 11:24:00;!!!! Nefis D682 G Pro Lite
+305;1;TRY;WEB;John;Doe;email@email.com;9,05E+11;374042;commons.com;14.09.2021 10:47:00;!!!! Nefis D682 G Pro Lite
+530;1;TRY;WEB;John;Doe;email@email.com;9,05E+11;374042;commons.com;14.09.2021 10:43:00;!!!! Nefis D682 G Pro Lite
+262;1;TRY;WEB;John;Doe;email@email.com;9,05E+11;374042;commons.com;14.09.2021 10:23:00;!!!! Nefis D682 G Pro Lite
+294;1;TRY;WEB;John;Doe;email@email.com;9,05E+11;1;test merchant;14.09.2021 09:59:00;!!!! Nefis D682 G Pro Lite
+15;1;TRY;WEB;John;Doe;email@email.com;9,05E+11;374042;commons.com;14.09.2021 09:57:00;!!!! Nefis D682 G Pro Lite
+375;1;TRY;WEB;John;Doe;email@email.com;9,05E+11;1;test merchant;14.09.2021 09:56:00;!!!! Nefis D682 G Pro Lite
+184;1;TRY;WEB;John;Doe;email@email.com;9,05E+11;1;test merchant;14.09.2021 09:54:00;!!!! Nefis D682 G Pro Lite
+972;1;TRY;WEB;John;Doe;email@email.com;9,05E+11;1;test merchant;14.09.2021 09:46:00;MAĞAZA İLAN SAVAŞI
+727;1;TRY;WEB;John;Doe;email@email.com;9,05E+11;1;test merchant;14.09.2021 09:07:00;MAĞAZA İLAN SAVAŞI
+129;1;TRY;WEB;John;Doe;email@email.com;9,05E+11;1;test merchant;14.09.2021 09:07:00;MAĞAZA İLAN SAVAŞI
+974;1;TRY;WEB;John;Doe;email@email.com;9,05E+11;1;test merchant;13.09.2021 20:58:00;MAĞAZA İLAN SAVAŞI
+96;1;TRY;WEB;John;Doe;email@email.com;9,05E+11;1;test merchant;13.09.2021 18:23:00;MAĞAZA İLAN SAVAŞI
+659;1;TRY;WEB;John;Doe;email@email.com;9,05E+11;1;test merchant;13.09.2021 18:21:00;BİREYSEL İLAN SAVAŞI
+64;1;TRY;WEB;John;Doe;email@email.com;9,05E+11;1;test merchant;13.09.2021 18:05:00;BİREYSEL İLAN SAVAŞI
+430;1;TRY;WEB;John;Doe;email@email.com;9,05E+11;1;test merchant;13.09.2021 18:04:00;BİREYSEL İLAN SAVAŞI
+639;1;TRY;WEB;John;Doe;email@email.com;9,05E+11;1;test merchant;13.09.2021 18:03:00;BİREYSEL İLAN SAVAŞI
+288;1;TRY;WEB;John;Doe;email@email.com;9,05E+11;1;test merchant;13.09.2021 18:01:00;BİREYSEL İLAN SAVAŞI
+977;1;TRY;WEB;Test Name;Test Surname;menitrust@yahoo.com;5555555555;1;test merchant;13.09.2021 17:53:00;BİREYSEL İLAN SAVAŞI
+159;1;TRY;WEB;John;Doe;email@email.com;9,05E+11;374042;commons.com;13.09.2021 17:51:00;BİREYSEL İLAN SAVAŞI
+103;1;TRY;WEB;Test Name;Test Surname;menitrust@yahoo.com;5555555555;1;test merchant;13.09.2021 17:49:00;BİREYSEL İLAN SAVAŞI
+320;1;TRY;WEB;John;Doe;email@email.com;9,05E+11;374042;commons.com;13.09.2021 17:49:00;BİREYSEL İLAN SAVAŞI
+861;1;TRY;WEB;Test Name;Test Surname;menitrust@yahoo.com;5555555555;1;test merchant;13.09.2021 17:48:00;BİREYSEL İLAN SAVAŞI
+893;1;TRY;WEB;John;Doe;email@email.com;9,05E+11;374042;commons.com;13.09.2021 17:42:00;BİREYSEL İLAN SAVAŞI
+617;1;TRY;WEB;John;Doe;email@email.com;9,05E+11;1;test merchant;13.09.2021 17:40:00;BİREYSEL İLAN SAVAŞI
+280;1;TRY;WEB;John;Doe;email@email.com;9,05E+11;1;test merchant;13.09.2021 17:40:00;Kingston USB
+783;1;TRY;WEB;John;Doe;email@email.com;9,05E+11;1;test merchant;13.09.2021 17:35:00;Kingston USB
+462;1;TRY;WEB;Test Name;Test Surname;menitrust@yahoo.com;5555555555;1;test merchant;13.09.2021 17:23:00;Kingston USB
+659;1;TRY;WEB;Test Name;Test Surname;menitrust@yahoo.com;5555555555;1;test merchant;13.09.2021 17:22:00;BİREYSEL İLAN SAVAŞI
+946;1;TRY;WEB;Test Name;Test Surname;menitrust@yahoo.com;5555555555;1;test merchant;13.09.2021 17:08:00;!!!! Nefis D682 G Pro Lite
+302;1;TRY;WEB;Test Name;Test Surname;menitrust@yahoo.com;5555555555;1;test merchant;13.09.2021 17:07:00;!!!! Nefis D682 G Pro Lite
+215;1;TRY;WEB;Test Name;Test Surname;menitrust@yahoo.com;5555555555;1;test merchant;13.09.2021 17:06:00;!!!! Nefis D682 G Pro Lite
+832;1;TRY;WEB;Test Name;Test Surname;menitrust@yahoo.com;5555555555;1;test merchant;13.09.2021 17:06:00;!!!! Nefis D682 G Pro Lite
+671;1;TRY;WEB;Test Name;Test Surname;menitrust@yahoo.com;5555555555;1;test merchant;13.09.2021 17:00:00;BİREYSEL İLAN SAVAŞI
+62;1;TRY;WEB;Test Name;Test Surname;menitrust@yahoo.com;5555555555;1;test merchant;13.09.2021 17:00:00;BİREYSEL İLAN SAVAŞI
+216;1;TRY;WEB;John;Doe;email@email.com;9,05E+11;1;test merchant;13.09.2021 16:53:00;Kingston USB
+396;1;TRY;WEB;John;Doe;email@email.com;9,05E+11;1;test merchant;13.09.2021 16:37:00;HDMI Cable
+552;1;TRY;WEB;John;Doe;email@email.com;9,05E+11;1;test merchant;13.09.2021 16:35:00;Müthiş Pilot Kalem
+201;1;TRY;WEB;John;Doe;email@email.com;9,05E+11;1;test merchant;13.09.2021 16:33:00;IYZICO TEST ILANI 1-TL
+934;1;TRY;WEB;John;Doe;email@email.com;9,05E+11;1;test merchant;13.09.2021 16:31:00;IYZICO TEST ILANI 1-TL
+722;1;TRY;WEB;John;Doe;email@email.com;9,05E+11;1;test merchant;13.09.2021 16:30:00;!!!! Nefis D682 G Pro Lite
+52;1;TRY;WEB;John;Doe;email@email.com;9,05E+11;1;test merchant;13.09.2021 16:28:00;!!!! Nefis D682 G Pro Lite
+302;1;TRY;WEB;Test Name;Test Surname;menitrust@yahoo.com;5555555555;1;test merchant;13.09.2021 16:19:00;!!!! Nefis D682 G Pro Lite
+411;1;TRY;WEB;John;Doe;tryharder@gmail.com;9,05E+11;1;test merchant;13.09.2021 16:10:00;!!!! Nefis D682 G Pro Lite
+234;1;TRY;WEB;John;Doe;tryharder@gmail.com;9,05E+11;1;test merchant;13.09.2021 15:58:00;Kingston USB
+448;1;TRY;WEB;John;Doe;tryharder@gmail.com;9,05E+11;1;test merchant;13.09.2021 15:53:00;HDMI Cable
+302;1;TRY;WEB;John;Doe;tryharder@gmail.com;9,05E+11;1;test merchant;13.09.2021 15:51:00;Kingston USB
+300;1;TRY;WEB;Test Name;Test Surname;menitrust@yahoo.com;5555555555;1;test merchant;13.09.2021 15:41:00;Kingston USB
+226;1;TRY;WEB;Test Name;Test Surname;menitrust@yahoo.com;5555555555;1;test merchant;13.09.2021 15:39:00;Kingston USB
+763;0.2;TRY;MOBILE;unknown;unknown;kemal.sunal@yahoo.co.uk;5554443322;373946;fund merchant;13.09.2021 15:39:00;Kingston USB
+66;1;TRY;WEB;Test Name;Test Surname;menitrust@yahoo.com;5555555555;1;test merchant;13.09.2021 14:22:00;Kingston USB
+66;1;TRY;WEB;Test Name;Test Surname;menitrust@yahoo.com;5555555555;1;test merchant;13.09.2021 13:20:00;Kingston USB
+254;1;TRY;WEB;Test Name;Test Surname;menitrust@yahoo.com;5555555555;1;test merchant;13.09.2021 13:19:00;Kingston USB
+931;1;TRY;WEB;Test Name;Test Surname;menitrust@yahoo.com;5555555555;1;test merchant;13.09.2021 13:16:00;HDMI Cable
+72;1;TRY;WEB;Test Name;Test Surname;menitrust@yahoo.com;5555555555;1;test merchant;13.09.2021 11:27:00;Kingston USB
+757;1;TRY;WEB;John;Doe;email@email.com;9,05E+11;1;test merchant;13.09.2021 11:23:00;HDMI Cable
+427;1;TRY;WEB;John;Doe;email@email.com;9,05E+11;1;test merchant;13.09.2021 11:21:00;!!!! Nefis D682 G Pro Lite
+729;1;TRY;WEB;John;Doe;email@email.com;9,05E+11;1;test merchant;13.09.2021 11:19:00;!!!! Nefis D682 G Pro Lite
+505;1;TRY;WEB;John;Doe;email@email.com;9,05E+11;1;test merchant;13.09.2021 11:19:00;!!!! Nefis D682 G Pro Lite
+617;1;TRY;WEB;John;Doe;email@email.com;9,05E+11;1;test merchant;13.09.2021 11:17:00;!!!! Nefis D682 G Pro Lite
+555;1;TRY;WEB;John;Doe;email@email.com;9,05E+11;1;test merchant;13.09.2021 11:13:00;!!!! Nefis D682 G Pro Lite
+116;1;TRY;WEB;Test Name;Test Surname;menitrust@yahoo.com;5555555555;1;test merchant;13.09.2021 11:09:00;!!!! Nefis D682 G Pro Lite
+151;1;TRY;WEB;John;Doe;email@email.com;9,05E+11;1;test merchant;13.09.2021 11:08:00;!!!! Nefis D682 G Pro Lite
+249;1;TRY;WEB;Test Name;Test Surname;menitrust@yahoo.com;5555555555;1;test merchant;13.09.2021 10:59:00;!!!! Nefis D682 G Pro Lite
+502;1;TRY;WEB;John;Doe;tryharder@gmail.com;9,05E+11;1;test merchant;09.09.2021 16:47:00;!!!! Nefis D682 G Pro Lite
+256;1;TRY;WEB;John;Doe;email@email.com;9,05E+11;1;test merchant;09.09.2021 15:19:00;!!!! Nefis D682 G Pro Lite
+897;1;TRY;WEB;John;Doe;email@email.com;9,05E+11;1;test merchant;09.09.2021 15:16:00;!!!! Nefis D682 G Pro Lite
+256;1;TRY;WEB;John;Doe;email@email.com;9,05E+11;1;test merchant;09.09.2021 15:07:00;!!!! Nefis D682 G Pro Lite
+416;1;TRY;WEB;John;Doe;email@email.com;9,05E+11;1;test merchant;09.09.2021 14:31:00;!!!! Nefis D682 G Pro Lite
+155;1;TRY;WEB;John;Doe;email@email.com;9,05E+11;1;test merchant;09.09.2021 14:28:00;!!!! Nefis D682 G Pro Lite
+905;1;TRY;WEB;John;Doe;email@email.com;9,05E+11;1;test merchant;09.09.2021 10:12:00;!!!! Nefis D682 G Pro Lite
+273;1;TRY;WEB;John;Doe;email@email.com;9,05E+11;1;test merchant;09.09.2021 10:10:00;!!!! Nefis D682 G Pro Lite
+597;1;TRY;WEB;John;Doe;tryharder@gmail.com;9,05E+11;1;test merchant;09.09.2021 10:07:00;!!!! Nefis D682 G Pro Lite
+190;5;TRY;WEB;John;Doe;email@email.com;9,05E+11;1;test merchant;08.09.2021 18:35:00;!!!! Nefis D682 G Pro Lite
+581;5;TRY;WEB;John;Doe;email@email.com;9,05E+11;1;test merchant;08.09.2021 18:28:00;!!!! Nefis D682 G Pro Lite
+682;5;TRY;WEB;John;Doe;email@email.com;9,05E+11;1;test merchant;08.09.2021 17:47:00;!!!! Nefis D682 G Pro Lite
+999;5;TRY;WEB;John;Doe;email@email.com;9,05E+11;1;test merchant;08.09.2021 16:45:00;!!!! Nefis D682 G Pro Lite
+306;5;TRY;WEB;John;Doe;email@email.com;9,05E+11;1;test merchant;08.09.2021 16:42:00;!!!! Nefis D682 G Pro Lite
+287;5;TRY;WEB;John;Doe;email@email.com;9,05E+11;1;test merchant;08.09.2021 16:15:00;!!!! Nefis D682 G Pro Lite
+810;1;TRY;WEB;John;Doe;email@email.com;9,05E+11;1;test merchant;08.09.2021 14:15:00;!!!! Nefis D682 G Pro Lite
+643;1;TRY;WEB;John;Doe;email@email.com;9,05E+11;1;test merchant;08.09.2021 14:13:00;!!!! Nefis D682 G Pro Lite
+103;1;TRY;WEB;John;Doe;email@email.com;9,05E+11;1;test merchant;08.09.2021 14:04:00;!!!! Nefis D682 G Pro Lite
+968;1;TRY;WEB;John;Doe;email@email.com;9,05E+11;1;test merchant;08.09.2021 13:58:00;!!!! Nefis D682 G Pro Lite
+780;1;TRY;WEB;John;Doe;tryharder@gmail.com;9,05E+11;1;test merchant;08.09.2021 13:35:00;Alı_veri_     Saat     Takı Saat
+421;1;TRY;WEB;John;Doe;email@email.com;9,05E+11;1;test merchant;06.09.2021 17:53:00;Alı_veri_     Saat     Takı Saat
+78;1;TRY;WEB;Test Name;Test Surname;menitrust@yahoo.com;5555555555;1;test merchant;06.09.2021 15:37:00;Üniforma
+973;1;TRY;WEB;Test Name;Test Surname;menitrust@yahoo.com;5555555555;1;test merchant;06.09.2021 15:37:00;Üniforma
+260;1;TRY;WEB;Test Name;Test Surname;menitrust@yahoo.com;5555555555;1;test merchant;06.09.2021 15:36:00;Üniforma
+899;1;TRY;WEB;John;Doe;tryharder@gmail.com;9,05E+11;1;test merchant;06.09.2021 13:39:00;!!!! Nefis D682 G Pro Lite
+116;1;TRY;WEB;Test Name;Test Surname;menitrust@yahoo.com;5555555555;1;test merchant;06.09.2021 13:11:00;!!!! Nefis D682 G Pro Lite
+588;1;TRY;WEB;John;Doe;email@email.com;9,05E+11;374042;commons.com;06.09.2021 10:48:00;El kremi El kremi
+663;1;TRY;WEB;John;Doe;email@email.com;9,05E+11;374042;commons.com;06.09.2021 10:46:00;Araç Düzeltme Seti
+82;1;TRY;WEB;John;Doe;tryharder@gmail.com;9,05E+11;1;test merchant;03.09.2021 17:03:00;El kremi El kremi
+856;1;TRY;WEB;John;Doe;tryharder@gmail.com;9,05E+11;1;test merchant;03.09.2021 16:51:00;El kremi El kremi
+822;1;TRY;WEB;John;Doe;tryharder@gmail.com;9,05E+11;1;test merchant;03.09.2021 16:35:00;El kremi El kremi
+203;1;TRY;WEB;John;Doe;email@email.com;9,05E+11;1;test merchant;03.09.2021 14:58:00;patlangaç
+253;1;TRY;WEB;John;Doe;email@email.com;9,05E+11;1;test merchant;03.09.2021 14:52:00;patlangaç
+25;1;TRY;WEB;John;Doe;email@email.com;9,05E+11;1;test merchant;03.09.2021 14:51:00;patlangaç
+422;1;TRY;WEB;John;Doe;tryharder@gmail.com;9,05E+11;1;test merchant;03.09.2021 14:50:00;patlangaç
+681;1;TRY;WEB;John;Doe;tryharder@gmail.com;9,05E+11;374042;commons.com;03.09.2021 14:46:00;patlangaç
+999;1;TRY;WEB;John;Doe;tryharder@gmail.com;9,05E+11;374042;commons.com;03.09.2021 14:40:00;patlangaç
+318;1;TRY;WEB;John;Doe;tryharder@gmail.com;9,05E+11;374042;commons.com;03.09.2021 14:39:00;patlangaç
+584;1;TRY;WEB;John;Doe;tryharder@gmail.com;9,05E+11;374042;commons.com;03.09.2021 14:37:00;Fotoğraf Kamera Aksesuarlar Battery G
+312;1;TRY;WEB;John;Doe;email@email.com;9,05E+11;374042;commons.com;03.09.2021 14:37:00;!!!! Nefis D682 G Pro Lite
+270;1;TRY;WEB;John;Doe;email@email.com;9,05E+11;374042;commons.com;03.09.2021 13:39:00;!!!! Nefis D682 G Pro Lite
+424;1;TRY;WEB;John;Doe;email@email.com;9,05E+11;1;test merchant;03.09.2021 13:04:00;!!!! Nefis D682 G Pro Lite
+722;1;TRY;WEB;John;Doe;email@email.com;9,05E+11;1;test merchant;03.09.2021 12:47:00;!!!! Nefis D682 G Pro Lite
+760;1;TRY;WEB;John;Doe;email@email.com;9,05E+11;1;test merchant;03.09.2021 12:16:00;!!!! Nefis D682 G Pro Lite
+420;1;TRY;WEB;John;Doe;email@email.com;9,05E+11;1;test merchant;03.09.2021 12:03:00;!!!! Nefis D682 G Pro Lite
+361;1;TRY;WEB;John;Doe;email@email.com;9,05E+11;1;test merchant;03.09.2021 11:59:00;!!!! Nefis D682 G Pro Lite
+995;1;TRY;WEB;John;Doe;email@email.com;9,05E+11;1;test merchant;03.09.2021 11:16:00;!!!! Nefis D682 G Pro Lite
+344;1;TRY;WEB;John;Doe;email@email.com;9,05E+11;1;test merchant;03.09.2021 11:11:00;!!!! Nefis D682 G Pro Lite
+277;1;TRY;WEB;John;Doe;email@email.com;9,05E+11;374042;commons.com;03.09.2021 09:59:00;!!!! Nefis D682 G Pro Lite
+109;1;TRY;WEB;John;Doe;email@email.com;9,05E+11;374042;commons.com;02.09.2021 15:43:00;!!!! Nefis D682 G Pro Lite
+101;1;TRY;WEB;John;Doe;email@email.com;9,05E+11;374042;commons.com;02.09.2021 15:39:00;!!!! Nefis D682 G Pro Lite
+572;1;TRY;WEB;John;Doe;email@email.com;9,05E+11;1;test merchant;02.09.2021 15:07:00;!!!! Nefis D682 G Pro Lite
+500;1;TRY;WEB;John;Doe;email@email.com;9,05E+11;1;test merchant;01.09.2021 22:43:00;!!!! Nefis D682 G Pro Lite
+385;1;TRY;WEB;John;Doe;email@email.com;9,05E+11;1;test merchant;01.09.2021 22:40:00;!!!! Nefis D682 G Pro Lite
+86;1;TRY;WEB;John;Doe;email@email.com;9,05E+11;1;test merchant;01.09.2021 17:58:00;!!!! Nefis D682 G Pro Lite
+272;1;TRY;WEB;John;Doe;email@email.com;9,05E+11;1;test merchant;01.09.2021 17:51:00;!!!! Nefis D682 G Pro Lite
+167;1;TRY;WEB;John;Doe;email@email.com;9,05E+11;1;test merchant;01.09.2021 17:50:00;!!!! Nefis D682 G Pro Lite
+27;1;TRY;WEB;John;Doe;email@email.com;9,05E+11;1;test merchant;01.09.2021 17:45:00;!!!! Nefis D682 G Pro Lite
+599;1;TRY;WEB;John;Doe;email@email.com;9,05E+11;1;test merchant;01.09.2021 17:44:00;!!!! Nefis D682 G Pro Lite
+763;1;TRY;WEB;John;Doe;email@email.com;9,05E+11;1;test merchant;01.09.2021 17:43:00;!!!! Nefis D682 G Pro Lite
+921;1;TRY;WEB;John;Doe;email@email.com;9,05E+11;1;test merchant;01.09.2021 17:37:00;!!!! Nefis D682 G Pro Lite
+518;1;TRY;WEB;John;Doe;email@email.com;9,05E+11;1;test merchant;01.09.2021 17:23:00;!!!! Nefis D682 G Pro Lite
+951;1;TRY;WEB;John;Doe;email@email.com;9,05E+11;1;test merchant;01.09.2021 17:04:00;!!!! Nefis D682 G Pro Lite
+584;1;TRY;WEB;John;Doe;email@email.com;9,05E+11;1;test merchant;01.09.2021 16:44:00;!!!! Nefis D682 G Pro Lite
+220;1;TRY;WEB;John;Doe;email@email.com;9,05E+11;1;test merchant;01.09.2021 15:24:00;!!!! Nefis D682 G Pro Lite
+4;1;TRY;WEB;John;Doe;email@email.com;9,05E+11;1;test merchant;01.09.2021 15:18:00;!!!! Nefis D682 G Pro Lite
+914;1;TRY;WEB;John;Doe;email@email.com;9,05E+11;1;test merchant;01.09.2021 15:16:00;!!!! Nefis D682 G Pro Lite
+307;1;TRY;WEB;John;Doe;email@email.com;9,05E+11;1;test merchant;01.09.2021 15:11:00;Fotoğraf Kamera Aksesuarlar Battery G
+535;1;TRY;WEB;John;Doe;email@email.com;9,05E+11;1;test merchant;01.09.2021 15:02:00;Fotoğraf Kamera Aksesuarlar Battery G
+683;1;TRY;WEB;Test Name;Test Surname;menitrust@yahoo.com;5555555555;1;test merchant;01.09.2021 13:40:00;!!!! Nefis D682 G Pro Lite
+470;1;TRY;WEB;Test Name;Test Surname;menitrust@yahoo.com;5555555555;1;test merchant;01.09.2021 13:39:00;!!!! Nefis D682 G Pro Lite
+950;1;TRY;WEB;John;Doe;email@email.com;9,05E+11;1;test merchant;31.08.2021 18:14:00;!!!! Nefis D682 G Pro Lite
+687;1;TRY;WEB;John;Doe;email@email.com;9,05E+11;1;test merchant;31.08.2021 18:06:00;!!!! Nefis D682 G Pro Lite
+42;99;TRY;WEB;Yasujiro;Ozursonal;Yasujirozu49@gmail.com;9,05E+11;1;test merchant;31.08.2021 17:56:00;!!!! Nefis D682 G Pro Lite
+502;29;TRY;WEB;John;Dimarco;johndimarco@yahoo.com;9,06E+11;1;test merchant;31.08.2021 17:47:00;!!!! Nefis D682 G Pro Lite
+721;29;TRY;WEB;John;Dimarco;johndimarco@yahoo.com;9,06E+11;1;test merchant;31.08.2021 17:47:00;!!!! Nefis D682 G Pro Lite
+665;1;TRY;WEB;John;Doe;email@email.com;9,05E+11;1;test merchant;31.08.2021 17:34:00;!!!! Nefis D682 G Pro Lite
+204;1;TRY;WEB;John;Doe;email@email.com;9,05E+11;1;test merchant;31.08.2021 17:32:00;!!!! Nefis D682 G Pro Lite
+134;1;TRY;WEB;John;Doe;email@email.com;9,05E+11;1;test merchant;31.08.2021 17:19:00;Müthiş Pilot Kalem5
+361;1;TRY;WEB;John;Doe;email@email.com;9,05E+11;1;test merchant;31.08.2021 16:45:00;!!!! Nefis D682 G Pro Lite
+814;1;TRY;WEB;John;Doe;email@email.com;9,05E+11;1;test merchant;31.08.2021 16:42:00;!!!! Nefis D682 G Pro Lite
+957;99;TRY;WEB;John;Dimarco;johndimarco@yahoo.com;9,06E+11;1;test merchant;31.08.2021 16:41:00;!!!! Nefis D682 G Pro Lite
+397;99;TRY;WEB;John;Dimarco;johndimarco@yahoo.com;9,06E+11;1;test merchant;31.08.2021 16:40:00;!!!! Nefis D682 G Pro Lite
+302;99;TRY;WEB;John;Dimarco;johndimarco@yahoo.com;9,06E+11;1;test merchant;31.08.2021 16:37:00;USB Cable
+189;99;TRY;WEB;John;Dimarco;johndimarco@yahoo.com;9,06E+11;1;test merchant;31.08.2021 16:35:00;HDMI Cable
+828;29;TRY;WEB;Ingmar;Bergman;ingmar.bergman@hurriyet.com.tr;9,05E+11;1;test merchant;31.08.2021 16:02:00;USB Cable
+959;29;TRY;WEB;Ingmar;Bergman;ingmar.bergman@hurriyet.com.tr;9,05E+11;1;test merchant;31.08.2021 16:02:00;HDMI Cable
+357;29;TRY;WEB;Ingmar;Bergman;ingmar.bergman@hurriyet.com.tr;9,05E+11;1;test merchant;31.08.2021 16:01:00;!!!! Nefis D682 G Pro Lite
+362;99;TRY;WEB;Ingmar;Bergman;ingmar.bergman@hurriyet.com.tr;9,05E+11;1;test merchant;31.08.2021 15:53:00;!!!! Nefis D682 G Pro Lite
+271;29;TRY;WEB;Ingmar;Bergman;ingmar.bergman@hurriyet.com.tr;9,05E+11;1;test merchant;31.08.2021 15:52:00;!!!! Nefis D682 G Pro Lite
+263;99;TRY;WEB;Ingmar;Bergman;ingmar.bergman@hurriyet.com.tr;9,05E+11;1;test merchant;31.08.2021 15:50:00;!!!! Nefis D682 G Pro Lite
+175;1;TRY;WEB;John;Doe;email@email.com;9,05E+11;374042;commons.com;31.08.2021 14:33:00;!!!! Nefis D682 G Pro Lite
+523;1;TRY;WEB;John;Doe;email@email.com;9,05E+11;374042;commons.com;31.08.2021 14:28:00;USB Cable
+301;1;TRY;WEB;John;Doe;email@email.com;9,05E+11;374042;commons.com;31.08.2021 14:25:00;HDMI Cable
+802;1;TRY;WEB;John;Doe;email@email.com;9,05E+11;374042;commons.com;31.08.2021 14:15:00;USB Cable
+502;1;TRY;WEB;Test Name;Test Surname;menitrust@yahoo.com;5555555555;1;test merchant;31.08.2021 12:32:00;HDMI Cable
+434;1;TRY;WEB;Test Name;Test Surname;menitrust@yahoo.com;5555555555;1;test merchant;31.08.2021 11:57:00;!!!! Nefis D682 G Pro Lite
+986;14;TRY;WEB;John;Doe;tryharder@gmail.com;9,05E+11;374042;commons.com;27.08.2021 14:42:00;!!!! Nefis D682 G Pro Lite
+820;1.03;TRY;MOBILE_IOS;asd asda;asd;asdas@asdasd.co;213213213;960957;test.com;27.08.2021 14:41:00;!!!! Nefis D682 G Pro Lite
+140;13;TRY;WEB;John;Doe;tryharder@gmail.com;9,05E+11;374042;commons.com;27.08.2021 14:40:00;!!!! Nefis D682 G Pro Lite
+612;12;TRY;WEB;John;Doe;tryharder@gmail.com;9,05E+11;374042;commons.com;27.08.2021 14:39:00;!!!! Nefis D682 G Pro Lite
+120;11;TRY;WEB;John;Doe;tryharder@gmail.com;9,05E+11;1;test merchant;27.08.2021 14:38:00;!!!! Nefis D682 G Pro Lite
+415;10;TRY;WEB;John;Doe;tryharder@gmail.com;9,05E+11;374042;commons.com;27.08.2021 14:38:00;!!!! Nefis D682 G Pro Lite
+417;9;TRY;WEB;John;Doe;tryharder@gmail.com;9,05E+11;1;test merchant;27.08.2021 14:37:00;!!!! Nefis D682 G Pro Lite
+71;8;TRY;WEB;John;Doe;tryharder@gmail.com;9,05E+11;374042;commons.com;27.08.2021 14:36:00;!!!! Nefis D682 G Pro Lite
+901;7;TRY;WEB;John;Doe;tryharder@gmail.com;9,05E+11;1;test merchant;27.08.2021 14:31:00;!!!! Nefis D682 G Pro Lite
+787;6;TRY;WEB;John;Doe;tryharder@gmail.com;9,05E+11;374042;commons.com;27.08.2021 14:30:00;!!!! Nefis D682 G Pro Lite
+216;5;TRY;WEB;John;Doe;tryharder@gmail.com;9,05E+11;374042;commons.com;27.08.2021 14:29:00;!!!! Nefis D682 G Pro Lite
+66;5;TRY;WEB;John;Doe;tryharder@gmail.com;9,05E+11;1;test merchant;27.08.2021 14:29:00;!!!! Nefis D682 G Pro Lite
+134;99;TRY;WEB;John;Dimarco;johndimarco@yahoo.com;9,06E+11;1;test merchant;27.08.2021 13:58:00;!!!! Nefis D682 G Pro Lite
+489;1;TRY;WEB;Test Name;Test Surname;menitrust@yahoo.com;5555555555;1;test merchant;27.08.2021 09:24:00;!!!! Nefis D682 G Pro Lite
+666;1;TRY;WEB;Test Name;Test Surname;menitrust@yahoo.com;5555555555;1;test merchant;26.08.2021 17:58:00;!!!! Nefis D682 G Pro Lite
+189;1;TRY;WEB;Test Name;Test Surname;menitrust@yahoo.com;5555555555;1;test merchant;26.08.2021 17:02:00;!!!! Nefis D682 G Pro Lite
+630;1;TRY;WEB;John;Doe;email@email.com;9,05E+11;1;test merchant;26.08.2021 16:12:00;!!!! Nefis D682 G Pro Lite
+673;1;TRY;WEB;John;Doe;email@email.com;9,05E+11;1;test merchant;26.08.2021 16:12:00;!!!! Nefis D682 G Pro Lite
+351;1;TRY;WEB;John;Doe;email@email.com;9,05E+11;1;test merchant;26.08.2021 16:12:00;!!!! Nefis D682 G Pro Lite
+600;1;TRY;WEB;John;Doe;email@email.com;9,05E+11;1;test merchant;26.08.2021 16:12:00;!!!! Nefis D682 G Pro Lite
+374;1;TRY;WEB;John;Doe;email@email.com;9,05E+11;1;test merchant;26.08.2021 16:11:00;!!!! Nefis D682 G Pro Lite
+368;1;TRY;WEB;John;Doe;email@email.com;9,05E+11;1;test merchant;26.08.2021 16:11:00;!!!! Nefis D682 G Pro Lite
+816;1;TRY;WEB;John;Doe;email@email.com;9,05E+11;1;test merchant;26.08.2021 16:11:00;!!!! Nefis D682 G Pro Lite
+378;1;TRY;WEB;John;Doe;email@email.com;9,05E+11;1;test merchant;26.08.2021 16:11:00;!!!! Nefis D682 G Pro Lite
+561;1;TRY;WEB;John;Doe;email@email.com;9,05E+11;1;test merchant;26.08.2021 16:11:00;!!!! Nefis D682 G Pro Lite
+734;1;TRY;WEB;John;Doe;email@email.com;9,05E+11;1;test merchant;26.08.2021 16:11:00;!!!! Nefis D682 G Pro Lite
+800;12;TRY;WEB;John;Doe;tryharder@gmail.com;9,05E+11;374042;commons.com;26.08.2021 15:34:00;!!!! Nefis D682 G Pro Lite
+637;12;TRY;WEB;John;Doe;tryharder@gmail.com;9,05E+11;374042;commons.com;26.08.2021 15:31:00;!!!! Nefis D682 G Pro Lite
+589;12;TRY;WEB;John;Doe;tryharder@gmail.com;9,05E+11;1;test merchant;26.08.2021 15:30:00;!!!! Nefis D682 G Pro Lite
+21;5;TRY;WEB;John;Doe;tryharder@gmail.com;9,05E+11;1;test merchant;26.08.2021 15:27:00;!!!! Nefis D682 G Pro Lite
+914;1;TRY;WEB;John;Doe;email@email.com;9,05E+11;1;test merchant;26.08.2021 15:03:00;!!!! Nefis D682 G Pro Lite
+895;1;TRY;WEB;John;Doe;email@email.com;9,05E+11;1;test merchant;26.08.2021 15:02:00;!!!! Nefis D682 G Pro Lite
+532;1;TRY;WEB;John;Doe;email@email.com;9,05E+11;1;test merchant;26.08.2021 15:02:00;!!!! Nefis D682 G Pro Lite
+45;1;TRY;WEB;John;Doe;email@email.com;9,05E+11;1;test merchant;26.08.2021 15:02:00;!!!! Nefis D682 G Pro Lite
+132;1;TRY;WEB;John;Doe;email@email.com;9,05E+11;1;test merchant;26.08.2021 15:02:00;!!!! Nefis D682 G Pro Lite
+967;1;TRY;WEB;John;Doe;email@email.com;9,05E+11;1;test merchant;26.08.2021 15:02:00;!!!! Nefis D682 G Pro Lite
+329;1;TRY;WEB;John;Doe;email@email.com;9,05E+11;1;test merchant;26.08.2021 15:02:00;!!!! Nefis D682 G Pro Lite
+188;1;TRY;WEB;John;Doe;email@email.com;9,05E+11;1;test merchant;26.08.2021 15:02:00;!!!! Nefis D682 G Pro Lite
+780;1;TRY;WEB;John;Doe;email@email.com;9,05E+11;1;test merchant;26.08.2021 15:02:00;!!!! Nefis D682 G Pro Lite
+797;1;TRY;WEB;John;Doe;email@email.com;9,05E+11;1;test merchant;26.08.2021 15:02:00;!!!! Nefis D682 G Pro Lite
+716;1;TRY;WEB;John;Doe;email@email.com;9,05E+11;1;test merchant;26.08.2021 14:36:00;!!!! Nefis D682 G Pro Lite
+166;1;TRY;WEB;John;Doe;email@email.com;9,05E+11;1;test merchant;26.08.2021 14:36:00;USB Cable 
+915;1;TRY;WEB;John;Doe;email@email.com;9,05E+11;1;test merchant;26.08.2021 14:36:00;HDMI Cable
+918;1;TRY;WEB;John;Doe;email@email.com;9,05E+11;1;test merchant;26.08.2021 14:36:00;TV Cable
+541;1;TRY;WEB;John;Doe;email@email.com;9,05E+11;1;test merchant;26.08.2021 14:35:00;!!!! Nefis D682 G Pro Lite
+288;1;TRY;WEB;John;Doe;email@email.com;9,05E+11;1;test merchant;26.08.2021 14:35:00;!!!! Nefis D682 G Pro Lite
+430;1;TRY;WEB;John;Doe;email@email.com;9,05E+11;1;test merchant;26.08.2021 14:35:00;!!!! Nefis D682 G Pro Lite
+672;1;TRY;WEB;John;Doe;email@email.com;9,05E+11;1;test merchant;26.08.2021 14:35:00;TOM FORD BLACK ORCH_D %100 TESTER 100 ML ERKEK PARFÜM
+511;1;TRY;WEB;John;Doe;email@email.com;9,05E+11;1;test merchant;26.08.2021 14:35:00;TOM FORD BLACK ORCH_D %100 TESTER 100 ML ERKEK PARFÜM
+963;1;TRY;WEB;John;Doe;email@email.com;9,05E+11;1;test merchant;26.08.2021 14:35:00;!!!! Nefis D682 G Pro Lite
+201;1;TRY;WEB;John;Doe;email@email.com;9,05E+11;1;test merchant;26.08.2021 14:34:00;!!!! Nefis D682 G Pro Lite
+471;1;TRY;WEB;John;Doe;email@email.com;9,05E+11;1;test merchant;26.08.2021 14:34:00;!!!! Nefis D682 G Pro Lite
+95;1;TRY;WEB;John;Doe;email@email.com;9,05E+11;1;test merchant;26.08.2021 14:34:00;!!!! Nefis D682 G Pro Lite
+293;1;TRY;WEB;John;Doe;email@email.com;9,05E+11;1;test merchant;26.08.2021 14:34:00;!!!! Nefis D682 G Pro Lite
+224;1;TRY;WEB;John;Doe;email@email.com;9,05E+11;1;test merchant;26.08.2021 14:34:00;!!!! Nefis D682 G Pro Lite
+835;1;TRY;WEB;John;Doe;email@email.com;9,05E+11;1;test merchant;26.08.2021 14:34:00;!!!! Nefis D682 G Pro Lite
+210;1;TRY;WEB;John;Doe;email@email.com;9,05E+11;1;test merchant;26.08.2021 14:34:00;!!!! Nefis D682 G Pro Lite
+769;1;TRY;WEB;John;Doe;email@email.com;9,05E+11;1;test merchant;26.08.2021 14:34:00;!!!! Nefis D682 G Pro Lite
+54;1;TRY;WEB;John;Doe;email@email.com;9,05E+11;1;test merchant;26.08.2021 14:34:00;!!!! Nefis D682 G Pro Lite
+526;1;TRY;WEB;John;Doe;email@email.com;9,05E+11;1;test merchant;26.08.2021 14:34:00;!!!! Nefis D682 G Pro Lite
+497;1;TRY;WEB;John;Doe;email@email.com;9,05E+11;1;test merchant;26.08.2021 14:33:00;!!!! Nefis D682 G Pro Lite
+1;10;TRY;WEB;John;Doe;email@email.com;9,05E+11;374042;commons.com;26.08.2021 14:03:00;!!!! Nefis D682 G Pro Lite
+895;10;TRY;WEB;John;Doe;email@email.com;9,05E+11;374042;commons.com;26.08.2021 13:54:00;!!!! Nefis D682 G Pro Lite
+69;10;TRY;WEB;John;Doe;email@email.com;9,05E+11;1;test merchant;26.08.2021 13:42:00;!!!! Nefis D682 G Pro Lite
+867;10;TRY;WEB;John;Doe;email@email.com;9,05E+11;1;test merchant;26.08.2021 13:39:00;!!!! Nefis D682 G Pro Lite
+747;7;TRY;WEB;John;Doe;email@email.com;9,05E+11;1;test merchant;26.08.2021 13:07:00;!!!! Nefis D682 G Pro Lite
+69;1;TRY;WEB;Test Name;Test Surname;menitrust@yahoo.com;5555555555;1;test merchant;25.08.2021 21:24:00;!!!! Nefis D682 G Pro Lite
+294;1;TRY;WEB;Test Name;Test Surname;menitrust@yahoo.com;5555555555;1;test merchant;25.08.2021 21:17:00;!!!! Nefis D682 G Pro Lite
+819;1;TRY;WEB;Test Name;Test Surname;menitrust@yahoo.com;5555555555;1;test merchant;25.08.2021 21:16:00;!!!! Nefis D682 G Pro Lite
+638;1;TRY;WEB;Test Name;Test Surname;menitrust@yahoo.com;5555555555;1;test merchant;25.08.2021 21:12:00;!!!! Nefis D682 G Pro Lite
+756;1;TRY;WEB;John;Doe;email@email.com;9,05E+11;1;test merchant;24.08.2021 16:11:00;!!!! Nefis D682 G Pro Lite
+352;1;TRY;WEB;John;Doe;email@email.com;9,05E+11;1;test merchant;24.08.2021 16:09:00;!!!! Nefis D682 G Pro Lite
+66;1;TRY;WEB;John;Doe;email@email.com;9,05E+11;1;test merchant;24.08.2021 16:05:00;!!!! Nefis D682 G Pro Lite
+663;1;TRY;WEB;Test Name;Test Surname;menitrust@yahoo.com;5555555555;1;test merchant;24.08.2021 14:07:00;!!!! Nefis D682 G Pro Lite
+963;1;TRY;WEB;John;Doe;email@email.com;9,05E+11;1;test merchant;24.08.2021 13:36:00;!!!! Nefis D682 G Pro Lite
+517;1;TRY;WEB;John;Doe;email@email.com;9,05E+11;1;test merchant;24.08.2021 13:33:00;!!!! Nefis D682 G Pro Lite
+698;1;TRY;WEB;John;Doe;email@email.com;9,05E+11;1;test merchant;24.08.2021 13:31:00;!!!! Nefis D682 G Pro Lite
+941;1;TRY;WEB;John;Doe;email@email.com;9,05E+11;1;test merchant;24.08.2021 13:29:00;!!!! Nefis D682 G Pro Lite
+812;1;TRY;WEB;John;Doe;email@email.com;9,05E+11;1;test merchant;24.08.2021 13:27:00;!!!! Nefis D682 G Pro Lite
+541;1;TRY;WEB;John;Doe;email@email.com;9,05E+11;1;test merchant;24.08.2021 13:23:00;!!!! Nefis D682 G Pro Lite
+806;1;TRY;WEB;John;Doe;email@email.com;9,05E+11;1;test merchant;24.08.2021 13:21:00;!!!! Nefis D682 G Pro Lite
+104;1;TRY;WEB;John;Doe;email@email.com;9,05E+11;1;test merchant;24.08.2021 12:52:00;!!!! Nefis D682 G Pro Lite
+231;1;TRY;WEB;Test Name;Test Surname;menitrust@yahoo.com;5555555555;1;test merchant;24.08.2021 12:51:00;!!!! Nefis D682 G Pro Lite
+886;1;TRY;WEB;Test Name;Test Surname;menitrust@yahoo.com;5555555555;1;test merchant;24.08.2021 12:41:00;denem dneme deneme pul
+316;1;TRY;WEB;John;Doe;email@email.com;9,05E+11;1;test merchant;24.08.2021 09:52:00;PLEKSİ PLAKA LIKA 100 GARANTILI
+443;1;TRY;WEB;John;Doe;email@email.com;9,05E+11;1;test merchant;24.08.2021 09:50:00;PLEKSİ PLAKA LIKA 100 GARANTILI
+752;1;TRY;WEB;John;Doe;email@email.com;9,05E+11;1;test merchant;24.08.2021 09:47:00;PLEKSİ PLAKA LIKA 100 GARANTILI
+881;1;TRY;WEB;John;Doe;email@email.com;9,05E+11;1;test merchant;24.08.2021 09:41:00;IMALATCIDAN PLEKSI PLAKA GARANTILI
+914;1;TRY;WEB;John;Doe;email@email.com;9,05E+11;1;test merchant;24.08.2021 09:35:00;IMALATCIDAN PLEKSI PLAKA GARANTILI
+664;5;TRY;WEB;John;Doe;tryharder@gmail.com;9,05E+11;1;test merchant;23.08.2021 16:11:00;Kingston USB
+833;1;TRY;WEB;Test Name;Test Surname;ihsahn@yahoo.com;5555555555;1;test merchant;23.08.2021 14:45:00;Kingston USB
+265;1;TRY;WEB;Test Name;Test Surname;ihsahn@yahoo.com;5452221199;1;test merchant;23.08.2021 13:33:00;Kingston USB
+429;1;TRY;WEB;Test Name;Test Surname;menitrust@yahoo.com;5555555555;1;test merchant;20.08.2021 16:07:00;IYZICO TEST ÜRÜNÜ 1 TL
+962;1;TRY;WEB;Test Name;Test Surname;menitrust@yahoo.com;5555555555;1;test merchant;19.08.2021 15:19:00;Iyzico test ilanı
+395;325.77;TRY;WEB;sdf;sdf;ihsahn@yahoo.com;5332223344;1;test merchant;19.08.2021 12:46:00;Iyzico test ilanı
+15;1;TRY;WEB;Test Name;Test Surname;menitrust@yahoo.com;5555555555;1;test merchant;18.08.2021 15:32:00;!!!! Nefis D682 G Pro Lite
+723;1;TRY;WEB;Test Name;Test Surname;menitrust@yahoo.com;5555555555;1;test merchant;18.08.2021 15:29:00;!!!! Nefis D682 G Pro Lite
+548;1;TRY;WEB;Test Name;Test Surname;menitrust@yahoo.com;5555555555;1;test merchant;18.08.2021 15:27:00;!!!! Nefis D682 G Pro Lite
+544;1;TRY;WEB;John;Doe;email@email.com;9,05E+11;374042;commons.com;18.08.2021 15:01:00;!!!! Nefis D682 G Pro Lite
+511;10;TRY;WEB;John;Doe;email@email.com;9,05E+11;374042;commons.com;18.08.2021 10:04:00;!!!! Nefis D682 G Pro Lite
+78;1;TRY;WEB;John;Doe;email@email.com;9,05E+11;374042;commons.com;17.08.2021 17:32:00;!!!! Nefis D682 G Pro Lite
+672;2;TRY;WEB;John;Doe;tryharder@gmail.com;9,05E+11;374042;commons.com;16.08.2021 16:52:00;!!!! Nefis D682 G Pro Lite
+27;2;TRY;WEB;John;Doe;tryharder@gmail.com;9,05E+11;374042;commons.com;16.08.2021 16:49:00;!!!! Nefis D682 G Pro Lite
+351;2;TRY;WEB;John;Doe;tryharder@gmail.com;9,05E+11;1;test merchant;16.08.2021 16:44:00;!!!! Nefis D682 G Pro Lite
+960;2;TRY;WEB;John;Doe;tryharder@gmail.com;9,05E+11;1;test merchant;16.08.2021 16:36:00;!!!! Nefis D682 G Pro Lite
+33;2;TRY;WEB;John;Doe;tryharder@gmail.com;9,05E+11;1;test merchant;16.08.2021 16:26:00;!!!! Nefis D682 G Pro Lite
+981;2;TRY;WEB;John;Doe;tryharder@gmail.com;9,05E+11;1;test merchant;16.08.2021 16:21:00;!!!! Nefis D682 G Pro Lite
+195;2;TRY;WEB;John;Doe;tryharder@gmail.com;9,05E+11;1;test merchant;16.08.2021 16:20:00;!!!! Nefis D682 G Pro Lite
+143;2;TRY;WEB;John;Doe;tryharder@gmail.com;9,05E+11;1;test merchant;16.08.2021 16:10:00;HERMES - 1. KALITE GERCEK DERİ KEMER KAPIDA ODEME 3TAKSİT
+465;2;TRY;WEB;John;Doe;tryharder@gmail.com;9,05E+11;1;test merchant;16.08.2021 15:58:00;HERMES - 1. KALITE GERCEK DERİ KEMER KAPIDA ODEME 3TAKSİT
+518;2;TRY;WEB;John;Doe;tryharder@gmail.com;9,05E+11;1;test merchant;16.08.2021 15:53:00;HERMES - 1. KALITE GERCEK DERİ KEMER KAPIDA ODEME 3TAKSİT
+31;2;TRY;WEB;John;Doe;tryharder@gmail.com;9,05E+11;1;test merchant;16.08.2021 15:50:00;!!!! Nefis D682 G Pro Lite
+325;2;TRY;WEB;John;Doe;tryharder@gmail.com;9,05E+11;1;test merchant;16.08.2021 15:48:00;Kingston USB
+120;2;TRY;WEB;John;Doe;tryharder@gmail.com;9,05E+11;1;test merchant;16.08.2021 15:23:00;HDMI Cable
+71;1;TRY;WEB;Test Name;Test Surname;menitrust@yahoo.com;5555555555;1;test merchant;13.08.2021 14:43:00;Kingston USB
+817;1;TRY;WEB;Test Name;Test Surname;menitrust@yahoo.com;5555555555;1;test merchant;13.08.2021 14:43:00;HDMI Cable
+282;1;TRY;WEB;Test Name;Test Surname;menitrust@yahoo.com;5555555555;1;test merchant;13.08.2021 14:43:00;Müthiş Pilot Kalem 6 TestV A
+730;7;TRY;WEB;John;Doe;email@email.com;9,05E+11;1;test merchant;13.08.2021 10:00:00;Müthiş Pilot Kalem 6 TestV A
+971;7;TRY;WEB;John;Doe;email@email.com;9,05E+11;1;test merchant;13.08.2021 09:57:00;Müthiş Pilot Kalem 6 TestV A
+390;1;TRY;WEB;Test Name;Test Surname;menitrust@yahoo.com;5555555555;1;test merchant;13.08.2021 09:57:00;patlangaç
+128;0.01;TRY;MOBILE;unknown;unknown;ihsahn@yahoo.com;5552223311;373946;fund merchant;13.08.2021 09:57:00;patlangaç
+42;7;TRY;WEB;John;Doe;email@email.com;9,05E+11;1;test merchant;13.08.2021 09:51:00;patlangaç
+304;7;TRY;WEB;John;Doe;email@email.com;9,05E+11;1;test merchant;13.08.2021 09:46:00;!!!! Nefis D682 G Pro Lite
+283;7;TRY;WEB;John;Doe;email@email.com;9,05E+11;1;test merchant;12.08.2021 17:17:00;!!!! Nefis D682 G Pro Lite
+92;7;TRY;WEB;John;Doe;email@email.com;9,05E+11;1;test merchant;12.08.2021 17:07:00;!!!! Nefis D682 G Pro Lite
+214;7;TRY;WEB;John;Doe;email@email.com;9,05E+11;1;test merchant;12.08.2021 17:05:00;!!!! Nefis D682 G Pro Lite
+357;1;TRY;WEB;Test Name;Test Surname;menitrust@yahoo.com;5555555555;1;test merchant;11.08.2021 16:14:00;!!!! Nefis D682 G Pro Lite
+610;1;TRY;WEB;Test Name;Test Surname;menitrust@yahoo.com;5555555555;1;test merchant;11.08.2021 16:14:00;!!!! Nefis D682 G Pro Lite
+795;1;TRY;WEB;Test Name;Test Surname;menitrust@yahoo.com;5555555555;960506;gulcabuk;11.08.2021 15:18:00;!!!! Nefis D682 G Pro Lite
+175;1;TRY;WEB;Test Name;Test Surname;menitrust@yahoo.com;5555555555;960957;test.com;11.08.2021 14:28:00;Müthiş Pilot Kalem 6 TestV A
+500;1;TRY;WEB;Test Name;Test Surname;menitrust@yahoo.com;5555555555;960957;test.com;11.08.2021 13:47:00;!!!! Nefis D682 G Pro Lite
+154;1;TRY;WEB;John;Doe;johndoe@yahoo.com;9,06E+11;960963;deneme.com;11.08.2021 09:32:00;!!!! Nefis D682 G Pro Lite
+401;1;TRY;WEB;Test Name;Test Surname;akira.kurasawa@yahoo.com;5555555555;1024;expocarsi.com;11.08.2021 09:28:00;HERMES - 1. KALITE GERCEK DERİ KEMER KAPIDA ODEME 3TAKSİT
+683;1;TRY;WEB;Test Name;Test Surname;menitrust@yahoo.com;5555555555;1024;expocarsi.com;11.08.2021 09:27:00;HERMES - 1. KALITE GERCEK DERİ KEMER KAPIDA ODEME 3TAKSİT
+781;1;TRY;WEB;Test Name;Test Surname;menitrust@yahoo.com;5555555555;1024;expocarsi.com;10.08.2021 16:50:00;Müthiş Pilot Kalem 6 TestV A
+562;1;TRY;WEB;Test Name;Test Surname;menitrust@yahoo.com;5555555555;1;test merchant;10.08.2021 15:21:00;Müthiş Pilot Kalem 6 TestV A
+688;900;TRY;WEB;John;Doe;email@yahoo.com;9,05E+11;1;test merchant;10.08.2021 15:20:00;dasddasasddsadasdsadsa
+466;5;TRY;WEB;buyerName;buyerSurname;nbc@outlook.com;9,05E+11;960960;daftpunk;10.08.2021 14:08:00;dasasddsadasdsadsdsadsadsadsa
+694;5;TRY;WEB;buyerName;buyerSurname;nbc@outlook.com;9,05E+11;960960;daftpunk;10.08.2021 14:05:00;Müthiş Pilot Kalem 6 TestV A
+627;1;TRY;WEB;John;Doe;email@email.com;9,05E+11;960960;daftpunk;10.08.2021 14:03:00;Müthiş Pilot Kalem 6 TestV A
+207;1;TRY;WEB;John;Doe;email@email.com;9,05E+11;960960;daftpunk;10.08.2021 14:02:00;Müthiş Pilot Kalem 6 TestV A
+936;1;TRY;WEB;John;Doe;email@email.com;9,05E+11;960960;daftpunk;10.08.2021 14:01:00;Müthiş Pilot Kalem 6 TestV A
+547;5;TRY;WEB;buyerName;buyerSurname;nbc@outlook.com;9,05E+11;960960;daftpunk;10.08.2021 13:52:00;Müthiş Pilot Kalem 6 TestV A
+600;1;TRY;WEB;Test Name;Test Surname;tryharder@gmail.com;5555555555;1024;expocarsi.com;10.08.2021 13:49:00;Test ilanıdır dikkate almayınız
+709;900;TRY;WEB;John;Doe;email@yahoo.com;9,05E+11;1;test merchant;10.08.2021 10:54:00;Müthiş Pilot Kalem 6 TestV A
+333;900;TRY;WEB;John;Doe;email@yahoo.com;9,05E+11;1;test merchant;10.08.2021 10:43:00;Müthiş Pilot Kalem 6 TestV A
+392;1;TRY;WEB;Test Name;Test Surname;akira.kurasawa@yahoo.com;5555555555;1024;expocarsi.com;10.08.2021 10:30:00;Müthiş Pilot Kalem 6 TestV A
+481;1;TRY;WEB;Test Name;Test Surname;tryharder@gmail.com;5555555555;1024;expocarsi.com;09.08.2021 09:52:00;Müthiş Pilot Kalem 6 TestV A
+618;1;TRY;WEB;Test Name;Test Surname;tryharder@gmail.com;5555555555;1024;expocarsi.com;09.08.2021 09:32:00;Müthiş Pilot Kalem 6 TestV A
+227;1;TRY;WEB;Test Name;Test Surname;tryharder@gmail.com;5555555555;1024;expocarsi.com;08.08.2021 22:19:00;Müthiş Pilot Kalem 6 TestV A
+233;1;TRY;WEB;Hulusi;Test Surname;borknagar@myspace.com;5322222222;960963;deneme.com;06.08.2021 14:40:00;Müthiş Pilot Kalem 6 TestV A
+652;1;TRY;WEB;Hulusi;Test Surname;borknagar@myspace.com;5322222222;960963;deneme.com;06.08.2021 14:33:00;Müthiş Pilot Kalem 6 TestV A
+536;1;TRY;WEB;Test Name;Test Surname;borknagar@myspace.com;5322222222;960963;deneme.com;06.08.2021 14:26:00;Fotoğraf Kamera Aksesuarlar Battery G
+844;1;TRY;WEB;Hulusi;Test Surname;borknagar@myspace.com;5322222222;960963;deneme.com;06.08.2021 14:24:00;Hava Hortumu Vantuzu 5 adet
+760;1;TRY;WEB;Hulusi;Test Surname;borknagar@myspace.com;5322222222;960963;deneme.com;06.08.2021 14:17:00;1 tl iyzico ürünü
+645;1;TRY;WEB;Test Name;Test Surname;akira.kurasawa@yahoo.com;5555555555;1;test merchant;06.08.2021 09:38:00;1 tl iyzico ürünü
+786;1;TRY;WEB;Test Name;Test Surname;akira.kurasawa@yahoo.com;5555555555;1;test merchant;05.08.2021 14:28:00;1 tl iyzico ürünü
+982;1;TRY;WEB;Test Name;Test Surname;akira.kurasawa@yahoo.com;5555555555;1;test merchant;05.08.2021 14:26:00;Kingston USB
+549;1;TRY;WEB;Test Name;Test Surname;enslaved@myspace.com;5555555555;1;test merchant;05.08.2021 14:24:00;HDMI Cable
+286;1;TRY;WEB;Test Name;Test Surname;tryharder@gmail.com;5555555555;15;tasarlapaylas.com;03.08.2021 18:14:00;Kingston USB
+596;1;TRY;WEB;Test Name;Test Surname;tryharder@gmail.com;5555555555;15;tasarlapaylas.com;03.08.2021 18:08:00;HDMI Cable
+500;1;TRY;WEB;Test Name;Test Surname;tryharder@gmail.com;5555555555;15;tasarlapaylas.com;03.08.2021 17:59:00;Kingston USB
+469;1;TRY;WEB;Test Name;Test Surname;tryharder@gmail.com;5555555555;15;tasarlapaylas.com;03.08.2021 17:52:00;HDMI Cable
+300;1;TRY;WEB;Test Name;Test Surname;tryharder@gmail.com;5555555555;15;tasarlapaylas.com;03.08.2021 17:45:00;Kingston USB
+259;1;TRY;WEB;Test Name;Test Surname;tryharder@gmail.com;5555555555;15;tasarlapaylas.com;03.08.2021 17:36:00;Kingston USB
+136;1;TRY;WEB;Test Name;Test Surname;tryharder@gmail.com;5555555555;15;tasarlapaylas.com;03.08.2021 17:33:00;HDMI Cable
+497;0.5;TRY;WEB;John;Doe;email@email.com;9,05E+11;15;tasarlapaylas.com;03.08.2021 17:30:00;Kingston USB
+729;1;TRY;WEB;John;Doe;email@email.com;9,05E+11;15;tasarlapaylas.com;03.08.2021 17:23:00;Kingston USB
+302;1;TRY;WEB;Test Name;Test Surname;tryharder@gmail.com;5555555555;15;tasarlapaylas.com;03.08.2021 17:21:00;HDMI Cable
+293;1;TRY;WEB;John;Doe;email@email.com;9,05E+11;1;test merchant;03.08.2021 17:13:00;Kingston USB
+27;1;TRY;WEB;Test Name;Test Surname;tryharder@gmail.com;5555555555;15;tasarlapaylas.com;03.08.2021 17:02:00;Kingston USB
+42;1;TRY;WEB;Test Name;Test Surname;tryharder@gmail.com;5555555555;15;tasarlapaylas.com;03.08.2021 16:47:00;HDMI Cable
+16;1;TRY;WEB;Test Name;Test Surname;tryharder@gmail.com;5555555555;15;tasarlapaylas.com;03.08.2021 16:39:00;Kingston USB
+405;1;TRY;WEB;Test Name;Test Surname;tryharder@gmail.com;5555555555;15;tasarlapaylas.com;03.08.2021 16:34:00;Kingston USB
+414;1;TRY;WEB;John;Doe;email@email.com;9,05E+11;1;test merchant;03.08.2021 16:20:00;HDMI Cable
+370;1;TRY;WEB;John;Doe;email@email.com;9,05E+11;1;test merchant;03.08.2021 16:19:00;Kingston USB
+472;1;TRY;WEB;John;Doe;email@email.com;9,05E+11;1;test merchant;03.08.2021 16:18:00;HDMI Cable
+352;1;TRY;WEB;John;Doe;email@email.com;9,05E+11;1;test merchant;03.08.2021 16:14:00;Kingston USB
+841;1;TRY;WEB;John;Doe;email@email.com;9,05E+11;374042;commons.com;27.07.2021 18:11:00;HDMI Cable
+87;1;TRY;WEB;John;Doe;email@email.com;9,05E+11;374042;commons.com;27.07.2021 18:02:00;Kingston USB
+593;1;TRY;WEB;John;Doe;email@email.com;9,05E+11;374042;commons.com;27.07.2021 17:57:00;HDMI Cable
+525;1;TRY;WEB;John;Doe;email@email.com;9,05E+11;374042;commons.com;27.07.2021 17:47:00;Kingston USB
+707;1;TRY;WEB;John;Doe;email@email.com;9,05E+11;374042;commons.com;27.07.2021 17:46:00;HDMI Cable
+545;1;TRY;WEB;John;Doe;email@email.com;9,05E+11;374042;commons.com;27.07.2021 17:39:00;Kingston USB
+416;1;TRY;WEB;John;Doe;email@email.com;9,05E+11;374042;commons.com;27.07.2021 17:37:00;HDMI Cable
+452;1;TRY;WEB;John;Doe;email@email.com;9,05E+11;1;test merchant;27.07.2021 17:34:00;Kingston USB
+560;1;TRY;WEB;Test Name;Test Surname;080808@gmail.com;5458000000;960506;firlatyakala.com;27.07.2021 16:07:00;HDMI Cable
+84;1;TRY;WEB;Test Name;Test Surname;080808@gmail.com;5458000000;960506;firlatyakala.com;27.07.2021 15:57:00;Kingston USB
+423;1;TRY;WEB;Test Name;Test Surname;080808@gmail.com;5458000000;960506;firlatyakala.com;27.07.2021 15:44:00;HDMI Cable

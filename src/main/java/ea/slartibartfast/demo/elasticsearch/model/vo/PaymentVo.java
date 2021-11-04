@@ -15,7 +15,8 @@ import java.util.Date;
 @Getter
 public class PaymentVo {
 
-    private BigDecimal price;
+    private Long documentNum;
+    private BigDecimal amount;
     private String currency;
     private String customerFullName;
     private String emailAddress;

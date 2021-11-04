@@ -7,6 +7,7 @@ import lombok.extern.slf4j.Slf4j;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 import org.springframework.data.elasticsearch.core.ElasticsearchOperations;
+import org.springframework.data.elasticsearch.core.join.JoinField;
 
 import javax.annotation.PostConstruct;
 import javax.annotation.PreDestroy;
@@ -34,19 +35,19 @@ public class DemoSpringElasticsearchApplication {
 
     @PreDestroy
     public void deleteIndex() {
-        elasticsearchTemplate.indexOps(Payment.class).delete();
+        elasticsearchTemplate.indexOps(PaymentDocument.class).delete();
     }
 
     @PostConstruct
     public void buildIndex() {
-        elasticsearchTemplate.indexOps(Payment.class).refresh();
+        elasticsearchTemplate.indexOps(PaymentDocument.class).refresh();
 
         paymentRepository.deleteAll();
         paymentRepository.saveAll(prepareDataset());
     }
 
-    private Collection<Payment> prepareDataset() {
-        List<Payment> paymentList = new ArrayList<>();
+    private Collection<PaymentDocument> prepareDataset() {
+        List<PaymentDocument> paymentList = new ArrayList<>();
 
         try (Stream<String> csvRows = Files.lines(Paths.get(ClassLoader.getSystemResource("payment-data.csv").toURI()), StandardCharsets.UTF_8)) {
             paymentList = csvRows.skip(1)
@@ -61,10 +62,11 @@ public class DemoSpringElasticsearchApplication {
         return paymentList;
     }
 
-    private Optional<Payment> csvRowToPaymentMapper(final String line) {
+    private Optional<PaymentDocument> csvRowToPaymentMapper(final String line) {
         try (Scanner rowScanner = new Scanner(line)) {
             rowScanner.useDelimiter(Constants.CSV_DELIMITER);
 
+            Long paymentId = rowScanner.nextLong();
             BigDecimal price = rowScanner.nextBigDecimal();
             String currencyCode = rowScanner.next();
             String paymentChannel = rowScanner.next();
@@ -78,15 +80,17 @@ public class DemoSpringElasticsearchApplication {
             String itemName = rowScanner.next();
 
             return Optional.of(
-                    Payment.builder()
-                           .price(price)
-                           .currencyCode(currencyCode)
-                           .customer(prepareCustomer(customerName, customerSurname, customerGsmNumber, customerEmail))
-                           .merchant(prepareMerchant(merchantNum, merchantName))
-                           .channel(PaymentChannel.valueOf(paymentChannel))
-                           .transactionDate(prepareDate(transactionDate))
-                           .itemName(itemName)
-                           .build());
+                    PaymentDocument.builder()
+                                   .documentNum(paymentId)
+                                   .amount(price)
+                                   .currencyCode(currencyCode)
+                                   .customer(prepareCustomer(customerName, customerSurname, customerGsmNumber, customerEmail))
+                                   .merchant(prepareMerchant(merchantNum, merchantName))
+                                   .channel(PaymentChannel.valueOf(paymentChannel))
+                                   .transactionDate(prepareDate(transactionDate))
+                                   .itemName(itemName)
+                                   .invoiceRelation(new JoinField<>("payment"))
+                                   .build());
         }
     }
 
